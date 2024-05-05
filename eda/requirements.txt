@@ -1,0 +1,10 @@
+pandas
+numpy
+yahoo_fin
+requests
+requests_html
+seaborn
+datetime
+matplotlib
+json
+scikit-learn

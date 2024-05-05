@@ -1,0 +1,997 @@
+Title,Score,ID,URL,Comms_Num,Created,Body,Timestamp,Datetime
+Do Clever Stock Tickers Attract Investors?,13,1btk7yk,https://www.reddit.com/r/wallstreetbets/comments/1btk7yk/do_clever_stock_tickers_attract_investors/,27,1712016221.0,"How much do you think the simple 1-4 letters of a stock ticker really affect the performance of a stock? The answer is a lot more than one would think…
+
+At a superficial glance, investors know stock tickers, also known as stock symbols, as the classified name of the security or company under all investment exchanges. However, a clever stock ticker can be more than just a gimmick, as these simple letters can truly make a difference and immortalize a company on the stock market as a memorable security.
+
+Do we have research that actually proves this to be true? The answer is yes, of course. A [***2006 study***](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5wcmluY2V0b24uZWR1L25ld3MvMjAwNi8wNS8yOS9zdHVkeS1zdG9jay1wZXJmb3JtYW5jZS10aWVkLWVhc2UtcHJvbm91bmNpbmctY29tcGFueXMtbmFtZT91dG1fc291cmNlPXd3dy5ibGFja3N3YW5zdHJlZXQuY29tJnV0bV9tZWRpdW09cmVmZXJyYWwmdXRtX2NhbXBhaWduPWRvLWNsZXZlci1zdG9jay10aWNrZXJzLWF0dHJhY3QtaW52ZXN0b3JzIiwicG9zdF9pZCI6IjJkYWQ5YjYzLTVkMDUtNDI0NC04NzQ3LTk0MjM4ZjhhNjFhMCIsInB1YmxpY2F0aW9uX2lkIjoiN2VmNWMyZDUtMTYyYy00NzRlLWFmYzctMzRhYjc0MTQ5NTdkIiwidmlzaXRfdG9rZW4iOiI4YTY1Y2FmZC1iMDQzLTQxNjYtYTI3YS00MTUxMGI1OWM2YzAiLCJpYXQiOjE3MTIwMTYxNDgsImlzcyI6Im9yY2hpZCJ9.taCG2V4xukrNDUS2EZOsjLrtsxbfwK3-cbUa9benSfc) from Princeton University psychologists highlights this hypothesis. These researchers found that stocks with easy-to-pronounce and memorable ticker symbols ended up performing a lot better directly in the days after they began trading.
+
+Ok, so what, market and internet hype promoted company IPOs to boost the stock of the company, haven’t we heard of that before? Well, don’t get quite ahead of yourself; another study done by [***Ponoma College***](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2Vjb25vbWljcy1maWxlcy5wb21vbmEuZWR1L2dhcnlzbWl0aC9lY29uMTkwL0Vjb24xOTAlMjAyMDE5L0JhZXIsJTIwQmFycnklMjBGaW5hbCUyMFRoZXNpcyUyMHZmLnBkZj91dG1fc291cmNlPXd3dy5ibGFja3N3YW5zdHJlZXQuY29tJnV0bV9tZWRpdW09cmVmZXJyYWwmdXRtX2NhbXBhaWduPWRvLWNsZXZlci1zdG9jay10aWNrZXJzLWF0dHJhY3QtaW52ZXN0b3JzIiwicG9zdF9pZCI6IjJkYWQ5YjYzLTVkMDUtNDI0NC04NzQ3LTk0MjM4ZjhhNjFhMCIsInB1YmxpY2F0aW9uX2lkIjoiN2VmNWMyZDUtMTYyYy00NzRlLWFmYzctMzRhYjc0MTQ5NTdkIiwidmlzaXRfdG9rZW4iOiI4YTY1Y2FmZC1iMDQzLTQxNjYtYTI3YS00MTUxMGI1OWM2YzAiLCJpYXQiOjE3MTIwMTYxNDgsImlzcyI6Im9yY2hpZCJ9.zUNtUVOX4KxJQIrSbyO1oRx8EA-tqovtyP6pqgo45lM) in 2019 verifies these findings, reporting that clever ticker symbols tend to perform better in the market due to their memorability to investors. Us common investors don’t have the ability to search through lines and lines of Bloomberg data on small-cap stocks to find high-performing potential, so memorable stock tickers really do help investors find new stocks to invest in.
+
+&#x200B;
+
+https://preview.redd.it/15tj5da5jyrc1.png?width=627&format=png&auto=webp&s=cfd33d06115ec9e7508b39baa669805cba62fefa
+
+Now that you are finally convinced let's look at some case studies. First, we can start with Donald Trump's social media platform, [***Truth Social***](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy51c2F0b2RheS5jb20vc3RvcnkvbmV3cy9uYXRpb24vMjAyMS8xMC8yMC9kb25hbGQtdHJ1bXAtYW5ub3VuY2VzLW5ldy1tZWRpYS1wbGF0Zm9ybS10cnV0aC1zb2NpYWwtYWZ0ZXItdHdpdHRlci1iYW4vNjExMzU1OTAwMS8_dXRtX3NvdXJjZT13d3cuYmxhY2tzd2Fuc3RyZWV0LmNvbSZ1dG1fbWVkaXVtPXJlZmVycmFsJnV0bV9jYW1wYWlnbj1kby1jbGV2ZXItc3RvY2stdGlja2Vycy1hdHRyYWN0LWludmVzdG9ycyIsInBvc3RfaWQiOiIyZGFkOWI2My01ZDA1LTQyNDQtODc0Ny05NDIzOGY4YTYxYTAiLCJwdWJsaWNhdGlvbl9pZCI6IjdlZjVjMmQ1LTE2MmMtNDc0ZS1hZmM3LTM0YWI3NDE0OTU3ZCIsInZpc2l0X3Rva2VuIjoiOGE2NWNhZmQtYjA0My00MTY2LWEyN2EtNDE1MTBiNTljNmMwIiwiaWF0IjoxNzEyMDE2MTQ4LCJpc3MiOiJvcmNoaWQifQ.Xnxg5_a_yBo-5E3nu1oma_5P04ScppZkP0KGtlcOLe0), a platform that prides itself on free speech for conservatives. The former president created the platform after receiving bans from Facebook and Twitter after the Jan. 6 Capital Riot. The stock is set to go public after a merger with Digital World Acquisition Corp. Now, politics aside, can you imagine what the new ticker symbol will be when it begins trading on the stock market? DJT, standing for Donald Trump’s initials. That ought to be memorable, right?
+
+This isn’t the only company playing the clever stock ticker name; let's look at some other examples:
+
+* **WOOF** 🡢 Petco
+* **LUV** 🡢 Southwest Airlines
+* **TAP** 🡢 Molson Coors Beverage (Parent company to Blue Moon, Coors, and Keystone)
+* **EAT** 🡢 Brinker International (Parent company to Chili’s and Maggiano’s)
+* **CAKE** 🡢 Cheesecake Factory
+* **FIZZ** 🡢 National Beverage (Parent Company to LaCroix)
+* **PLAY** 🡢 Dave & Busters
+* **ZEUS** 🡢 OLympic Steel Inc.
+* **FUN** 🡢 Cedar Fair (Amusement Park Operator)
+* **HOG** 🡢 Harley Davidson
+
+If you are a large company planning to IPO in the distant future, definitely consider brainstorming up a creative stock ticker.",2024-04-02 00:03:41,2024-04-02 00:03:41+00:00
+Trump secures $175 million bond in New York civil fraud case,5,1btl614,https://abcnews.go.com/US/trump-secures-175-million-bond-new-york-civil/story?id=108715465,8,1712018676.0,,2024-04-02 00:44:36,2024-04-02 00:44:36+00:00
+I found an Easter egg on trading view ,1,1btlewe,https://i.redd.it/927ojr9fsyrc1.jpeg,1,1712019322.0,"It’s a bunch of neck beards making fun of your watchlist. 
+
+Now get back to work slave! ",2024-04-02 00:55:22,2024-04-02 00:55:22+00:00
+Tax-Free Guaranteed 8% Return through IRS Overpayment Hack?,918,1btlk32,https://i.redd.it/f8n71q6ktyrc1.jpeg,98,1712019704.0,"Can a tax guy tell me if I’m an autist or a genius? You’re required to make quarterly estimated tax payments as a business owner. If you underpay, the IRS charges a penalty based on the current interest rate. But, from my understanding, they pay you the same interest on any amount you overpay. In past years, rates were low (like 3-5%). But now with rates being high, it’s 8%! 
+
+So, can I just make a massive overpayment before April 15th for 2024’s taxes and then just earn a tax-free 8% interest backed by the US government until next year’s tax return when they refund you for the overpayment?
+
+E.g. I expect to owe $10k in federal taxes for 2024. I pay $40k when the first quarterly estimated payment is due (April 15, 2024). Will I earn 8% interest on the $30k extra I paid all the way until next April, 2025? ",2024-04-02 01:01:44,2024-04-02 01:01:44+00:00
+RIP [Insert Regional Bank] ,503,1btm3mp,https://i.redd.it/uraekmdyxyrc1.png,41,1712021181.0,,2024-04-02 01:26:21,2024-04-02 01:26:21+00:00
+RIP [Insert Regional Bank] ,7,1btm3mp,https://i.redd.it/uraekmdyxyrc1.png,2,1712021181.0,,2024-04-02 01:26:21,2024-04-02 01:26:21+00:00
+Puts on Boeing again ,5,1btmesp,https://i.redd.it/9io1qwbk0zrc1.png,2,1712022060.0,Not a April fools joke. ,2024-04-02 01:41:00,2024-04-02 01:41:00+00:00
+"Not much gains, and not nearly anything invested, but a nice number",11,1btmev4,https://i.redd.it/mjk7kivk0zrc1.jpeg,4,1712022065.0,,2024-04-02 01:41:05,2024-04-02 01:41:05+00:00
+DD on Levi (Buying puts tmrw)- earnings Wednesday AH,30,1btmhuu,https://www.reddit.com/r/wallstreetbets/comments/1btmhuu/dd_on_levi_buying_puts_tmrw_earnings_wednesday_ah/,51,1712022293.0,"Hello regards,
+Another clothing retail going to shit the bed on Wednesday: Levis. We have Levi's earnings AH on Wednesday.
+Retail has been absolutely shitting the bed with their forecasted guidance- LULU, NKE, PVH to just name a few. OFC there will be some outliers. BUT LEVI'S WILL NOT BE ONE OF THEM!!!
+
+LEVI's FY 2024 forecast they gave in Q4 2023 was: 
+- Revenue growth of 1-3% (I backed these numbers out and not given in the report $6.24B-$6.36B)
+- EPS of $1.15-$1.25 (in actual report)
+
+LEVI's Q1 2024 Street expectations: 
+- $1.53B in Revenue (YoY decline of 9.5%)
+- $0.20 in EPS (YoY decline of 41.2%)
+In PYs with revenue around $1.5Bish, their EPS was higher with around $0.3-$0.4.
+
+So, let me get this straight, for FY 2023, Levi's had revenue of $6.18B and adjusted EPS was $1.10. And for FY 2024, they expect higher revenue of $6.24B-$6.36B and higher EPS of $1.15-$1.25, but their Q1 (which includes holiday sales) go down massively YoY?? Is it just me or is the math not mathing? 
+
+One UBS analyst wrote ""We anticipate the company delivers a small 1Q 2024 beat and maintains its $1.15 to $1.25 fiscal 2024 EPS guidance. We expect this will have a slightly positive impact on sentiment, which skews moderately bearish."" I agree that they will deliver a Q1 beat, BUTTTTTTTTTT I think they will lower guidance. 
+
+Also, the risk/ reward is much better in favor of puts compared to calls. The stock is up 25% YTD, 50% the past 6 months.
+
+Two risks to consider
+1. Beyonce mentioned Levi's in her new album- articles indicating this will lead to an increase in sales, however, IDK if it will be reflected in their guidance, OFC, this is a risk
+2. I did check the short interest % float is a bit high at 11%ish, the stock could be squeezed higher with better than expected earnings or increased guidance.
+
+TLDR; Levi's going to give shit guidance, buying puts tmrw, IV is around 40-60%, so not too bad. Will post positions tmrw, but going to buy LEVI $20P, 5/17 and 7/19.",2024-04-02 01:44:53,2024-04-02 01:44:53+00:00
+DJT Dead Can't bounce tomorrow? ,2,1btmrwx,https://www.reddit.com/r/wallstreetbets/comments/1btmrwx/djt_dead_cant_bounce_tomorrow/,1,1712023065.0,Anyone playing with the dead cat tomorrow? ,2024-04-02 01:57:45,2024-04-02 01:57:45+00:00
+"If you had $600k USD at age 25, what would you invest in?",1,1btmt9n,https://i.redd.it/1hoeve6v3zrc1.jpeg,1,1712023170.0,"Currently, I have it mostly in S&P index funds, equities and bonds. And of course, my side money is all in Bitcoin. I have zero real estate, but once I understand the market better I may invest in that as well. 
+",2024-04-02 01:59:30,2024-04-02 01:59:30+00:00
+It’s beautiful 🥲,16,1btn7w6,https://www.reddit.com/gallery/1btn7w6,2,1712024263.0,,2024-04-02 02:17:43,2024-04-02 02:17:43+00:00
+My infant son will only use ZYNS ($PM DD),494,1btnw6b,https://www.reddit.com/r/wallstreetbets/comments/1btnw6b/my_infant_son_will_only_use_zyns_pm_dd/,240,1712026199.0,"Positions: 30c 4/26 $100, tldr at bottom
+
+Philip Morris ($PM) is one of the largest tobacco companies worldwide. Most people have experienced PM through the most iconic American cigarette brand - Marlboro.  Besides Marlboro, PM owns some of the most popular cigarettes worldwide - Parliament, Chesterfield, Virginia Slims, and more.  [PM also recently acquired Swedish Match last year](https://www.swedishmatch.com/globalassets/documents/presentations/2023_companypresentation_swedishmatch_en.pdf). 
+
+Swedish Match is the largest and most successful company when it comes to oral nicotine pouches. Their biggest brands include General, Göteborgs Rapé, and, most importantly, ZYN.  ZYN has been blowing up in the media over the past year. Most notably Joe Rogan, Tucker Carlson, and many professional baseball players have been walking advertisments for ZYN pouches. 
+
+This word-of-mouth advertising has done wonders for Swedish Match, and therefore Philip Morris as well.   From the [Q4 2023 Earnings Release](https://philipmorrisinternational.gcs-web.com/static-files/33e7f95e-90d2-4883-91d8-df2446d176d0):  
+
+\> ""ZYN nicotine pouch shipment volume in the U.S. of 116.3 million cans, representing growth of 78.2% versus fourth-quarter 2022 Swedish Match shipments of 65.3 million cans"" 
+
+\> ""Adjusted diluted EPS of $6.01 increased by 11.0%, excluding currency, driven primarily by the organic growth in adjusted operating income, as well as the results of the Swedish Match business and its strong performance led by ZYN in the U.S.""
+
+ \> ""Nicotine pouch shipment volume increased by 68.6% compared to Swedish Match's fourth-quarter 2022 shipment volume of 73.8 million cans, mainly driven by 78.2% growth for ZYN in the U.S. -- an outstanding performance that reflected continued broad strength across the country. In Scandinavia, shipment volume for nicotine pouches grew by 3.0%""  
+
+Anyone who has tried ZYN knows that these things are AWESOME, and [the public agrees](https://www.sfchronicle.com/health/article/zyn-nicotine-pouches-18713916.php) 
+
+Now, same with Juul back around 2018, we all know the most loyal and dedicated customers for tobacco alternatives: ~~Ex-smokers~~ children. ZYN has blown up all over TikTok in a way that vaping could not. Lately, the news has been spreading about smokeless nicotine appearing on underaged users' social media, but this has been going on for much longer. These pouches have slowly been taking place of vapes for underaged users over the past year, most notably among college students. However, there's been a large recent uptick in use among high-schoolers due to both the fact that it is seen as ""healthier"" than vaping, as well as that it can be done easily without being caught. 
+
+For the past year, ZYN has been set up to be the next Juul - the perfect form of nicotine for those who have to hide their use. I believe this quarter's earnings and next are going to reflect the social media popularity of oral nicotine pouches.  This really is like investing into Juul before it made its way into the schools.
+
+Consider these factors: 
+
+PM has been considered a strong-moderate buy YTD 
+
+I'm literally just banking on enough teens buying ZYNs that PM made money. I'm assuming everything else will be the same as last quarter 
+
+~~I'm in the red overall~~ Went back green today, buying more calls for earnings
+
+They're also [selling some shares](https://www.bbc.com/news/business-68561614) in alcohol companies  
+
+Even when PM beats expectations, their stock drops 
+
+[I have Clinodactyly, a condition found in 3% of the regular population, but in 25% of those with down syndrome.](https://www.chop.edu/conditions-diseases/clinodactyly#:~:text=Clinodactyly%20is%20the%20medical%20term,Down%20syndrome%20(trisomy%2021)) Let this one marinate 
+
+tdlr; kids love nicotine, ZYN is the new craze, underage use will skyrocket $PM sales
+
+&#x200B;",2024-04-02 02:49:59,2024-04-02 02:49:59+00:00
+My infant son will only use ZYNS ($PM DD),524,1btnw6b,https://www.reddit.com/r/wallstreetbets/comments/1btnw6b/my_infant_son_will_only_use_zyns_pm_dd/,268,1712026199.0,"Positions: 30c 4/26 $100, tldr at bottom
+
+Philip Morris ($PM) is one of the largest tobacco companies worldwide. Most people have experienced PM through the most iconic American cigarette brand - Marlboro.  Besides Marlboro, PM owns some of the most popular cigarettes worldwide - Parliament, Chesterfield, Virginia Slims, and more.  [PM also recently acquired Swedish Match last year](https://www.swedishmatch.com/globalassets/documents/presentations/2023_companypresentation_swedishmatch_en.pdf). 
+
+Swedish Match is the largest and most successful company when it comes to oral nicotine pouches. Their biggest brands include General, Göteborgs Rapé, and, most importantly, ZYN.  ZYN has been blowing up in the media over the past year. Most notably Joe Rogan, Tucker Carlson, and many professional baseball players have been walking advertisments for ZYN pouches. 
+
+This word-of-mouth advertising has done wonders for Swedish Match, and therefore Philip Morris as well.   From the [Q4 2023 Earnings Release](https://philipmorrisinternational.gcs-web.com/static-files/33e7f95e-90d2-4883-91d8-df2446d176d0):  
+
+\> ""ZYN nicotine pouch shipment volume in the U.S. of 116.3 million cans, representing growth of 78.2% versus fourth-quarter 2022 Swedish Match shipments of 65.3 million cans"" 
+
+\> ""Adjusted diluted EPS of $6.01 increased by 11.0%, excluding currency, driven primarily by the organic growth in adjusted operating income, as well as the results of the Swedish Match business and its strong performance led by ZYN in the U.S.""
+
+ \> ""Nicotine pouch shipment volume increased by 68.6% compared to Swedish Match's fourth-quarter 2022 shipment volume of 73.8 million cans, mainly driven by 78.2% growth for ZYN in the U.S. -- an outstanding performance that reflected continued broad strength across the country. In Scandinavia, shipment volume for nicotine pouches grew by 3.0%""  
+
+Anyone who has tried ZYN knows that these things are AWESOME, and [the public agrees](https://www.sfchronicle.com/health/article/zyn-nicotine-pouches-18713916.php) 
+
+Now, same with Juul back around 2018, we all know the most loyal and dedicated customers for tobacco alternatives: ~~Ex-smokers~~ children. ZYN has blown up all over TikTok in a way that vaping could not. Lately, the news has been spreading about smokeless nicotine appearing on underaged users' social media, but this has been going on for much longer. These pouches have slowly been taking place of vapes for underaged users over the past year, most notably among college students. However, there's been a large recent uptick in use among high-schoolers due to both the fact that it is seen as ""healthier"" than vaping, as well as that it can be done easily without being caught. 
+
+For the past year, ZYN has been set up to be the next Juul - the perfect form of nicotine for those who have to hide their use. I believe this quarter's earnings and next are going to reflect the social media popularity of oral nicotine pouches.  This really is like investing into Juul before it made its way into the schools.
+
+Consider these factors: 
+
+PM has been considered a strong-moderate buy YTD 
+
+I'm literally just banking on enough teens buying ZYNs that PM made money. I'm assuming everything else will be the same as last quarter 
+
+~~I'm in the red overall~~ Went back green today, buying more calls for earnings
+
+They're also [selling some shares](https://www.bbc.com/news/business-68561614) in alcohol companies  
+
+Even when PM beats expectations, their stock drops 
+
+[I have Clinodactyly, a condition found in 3% of the regular population, but in 25% of those with down syndrome.](https://www.chop.edu/conditions-diseases/clinodactyly#:~:text=Clinodactyly%20is%20the%20medical%20term,Down%20syndrome%20(trisomy%2021)) Let this one marinate 
+
+tdlr; kids love nicotine, ZYN is the new craze, underage use will skyrocket $PM sales
+
+&#x200B;
+
+4/2 edits:
+-This isn’t going to actually hit $100, many people have pointed out why this is true. Sell the hype. $PM has not been over $100 since 2017.
+-ZYN operates under Swedish Match NA, owned by Philip Morris International ($PM)",2024-04-02 02:49:59,2024-04-02 02:49:59+00:00
+Things getting real spicy in the market lol,1,1btnzed,https://i.redd.it/38yzgz3ndzrc1.jpeg,1,1712026457.0,"The market is horny lol
+",2024-04-02 02:54:17,2024-04-02 02:54:17+00:00
+"What app you prefer to use outside Robinhood for options trading, with no fee options q.",1,1btnzwv,https://www.reddit.com/r/wallstreetbets/comments/1btnzwv/what_app_you_prefer_to_use_outside_robinhood_for/,2,1712026499.0,"Can't use RH because it's not an approved brokerage a at a big bank and I want to trade options on exempt ETFs, preferably without options fee. Fidelity is preferred one but looking for a secondary brokerage.",2024-04-02 02:54:59,2024-04-02 02:54:59+00:00
+PHAT AZZ PP BJ,2,1bto0x0,https://i.redd.it/ww9p6530ezrc1.jpeg,1,1712026578.0,Nothing to post other than I thought four of the trending tickers were kinda funny ,2024-04-02 02:56:18,2024-04-02 02:56:18+00:00
+Project,2,1btoqdy,https://www.reddit.com/r/wallstreetbets/comments/1btoqdy/project/,28,1712028679.0,"Hello all. My college economics class gave me an investment project. I have $100,000 to hypothetically invest and I have to try to get the most from my investments in about a month as possible. I invested 18k on Nike because it seems promising for short term returns but was curious as to any good ideas from anyone in what would net me the best returns. Any recommendations are appreciated. I’ve always been super into investing but never had enough disposable money to do it. ",2024-04-02 03:31:19,2024-04-02 03:31:19+00:00
+Sofi and DataDog.,21,1btovoa,https://www.reddit.com/gallery/1btovoa,7,1712029120.0,Sofi’s PS is 3. And DataDogs is 20. Both just became profitable (SOFI quarterly profitability). Both have scaled so similarly. Sofi gets a strong buy signal from Regard Holdings.,2024-04-02 03:38:40,2024-04-02 03:38:40+00:00
+Torchlight aka meta materials paid 3 mil into a CA suit against them,1,1btp7m6,https://i.redd.it/wl3273wiozrc1.jpeg,1,1712030117.0,,2024-04-02 03:55:17,2024-04-02 03:55:17+00:00
+Cicada plays.,1,1btp8dh,https://www.reddit.com/r/wallstreetbets/comments/1btp8dh/cicada_plays/,2,1712030184.0,"So I recently read an article that the SE and Midwest US are due for a double cicada hatching event this year.. which apparently is a pretty rare thing.  Is there anything to do with this info?  maybe buy futures on certain crops or industries that will/wont get rekt by bugs?  What about companies that make insect protein shakes or something?  once in a lifetime cicada hatching event, how do we profit?? regardedly speaking, of course.",2024-04-02 03:56:24,2024-04-02 03:56:24+00:00
+Taco Bell Puts?,0,1btp8q6,https://www.reddit.com/r/wallstreetbets/comments/1btp8q6/taco_bell_puts/,1,1712030217.0,Got some Taco Bell and its the third week that my order of a Pepsi is wrong and I get a Diet Pepsi instead. Could this be leadership trying to keep overhead low? Could this be the end of our beloved democratic franchise? ,2024-04-02 03:56:57,2024-04-02 03:56:57+00:00
+my yearly return but everyone still say i should get a real job cuz im not rich yet,1,1btp8wt,https://i.redd.it/cs187eqaozrc1.jpeg,1,1712030233.0,,2024-04-02 03:57:13,2024-04-02 03:57:13+00:00
+Trump secures $175 Million Bond Thanks To Billionaire Don Hankey,804,1btpdi6,https://www.reddit.com/r/wallstreetbets/comments/1btpdi6/trump_secures_175_million_bond_thanks_to/,163,1712030608.0,"Donald Trump posted a $175 million bond on Monday in his New York State civil trial. The news comes just one week after an appeals court ruled that the former president would not have to immediately post a bond for more than $454 million in the civil fraud case against him and his company. According to the ruling, Trump could delay payment of the full bond while he appeals the ruling as long as he posted a $175 million bond within 10 days. 
+
+[https://www.forbes.com/sites/zacheverson/2024/04/01/trump-posts-175-million-bond-new-york-civil-fraud-lawsuit/?sh=22d6d98c686d](https://www.forbes.com/sites/zacheverson/2024/04/01/trump-posts-175-million-bond-new-york-civil-fraud-lawsuit/?sh=22d6d98c686d)
+
+DJT pump incoming then inevitable sell off to to less than a $1. Rip to your calls",2024-04-02 04:03:28,2024-04-02 04:03:28+00:00
+'It's a Meme Stock': Trump’s Truth Social stock plunges after financials bloodbath,5,1btpx64,https://www.forbes.com.au/news/investing/trumps-truth-social-stock-plunges-following-release-of-financial-result/,4,1712032400.0,,2024-04-02 04:33:20,2024-04-02 04:33:20+00:00
+35K DJT - Just for fun,34,1btqwff,https://i.redd.it/euzh2w0q50sc1.jpeg,129,1712035902.0,Please Meme Lord bring me to the moon 🙏 ,2024-04-02 05:31:42,2024-04-02 05:31:42+00:00
+Microstrategy might be selling at double it's true value. Interesting short opportunity or am I just regarded?,16,1btr720,https://www.reddit.com/r/wallstreetbets/comments/1btr720/microstrategy_might_be_selling_at_double_its_true/,76,1712036991.0,"After coming across this short report on yahoo news today I decided to do some DD as a followup:
+
+https://finance.yahoo.com/m/763cb476-5dde-3f86-937d-5a20d4dcf335/microstrategy-stock-is-up.html
+
+For those here who can't read (so everyone here including myself) microstrategy is selling at a huge premium to the bitcoin it has on hand. According to the short report I linked, microstrategy as of March 19 has 214,246 bitcoin and as of this writing the price of bitcoin is around 66,500 which comes out to a total value of 14,247,359,000 dollars. Microstrategy's market cap after hours is currently 27.8 billion.
+
+I took a look at their annual report to see if perhaps the business outside of bitcoin is worth anything on its own, and from what I can tell, it isn't worth much. The company basically runs at break even if not at a slight loss when you remove the impact of bitcoin, and this doesn't account for the debt on the balance sheet and that the company will have to pay taxes on any realized gain from any sale.
+
+The IV on the options are insanely high so I'm strongly considering selling OTM call credit spreads. After hours option chains are always funky, but 5/17 expiration options in the 1700's range depending on liquidity were what I was thinking.
+
+Am I regarded or might this actually be a good idea?",2024-04-02 05:49:51,2024-04-02 05:49:51+00:00
+"TSMC plans to begin pilot production at its 1st AZ fab by mid-April in preparation for mass production by the end of 2024, ahead of schedule",238,1btr7wh,https://x.com/dnystedt/status/1774981989919228028?s=61,45,1712037074.0,,2024-04-02 05:51:14,2024-04-02 05:51:14+00:00
+"TSMC plans to begin pilot production at its 1st AZ fab by mid-April in preparation for mass production by the end of 2024, ahead of schedule",2,1btr7wh,https://x.com/dnystedt/status/1774981989919228028?s=61,3,1712037074.0,,2024-04-02 05:51:14,2024-04-02 05:51:14+00:00
+I don't understand,0,1btrqoz,https://www.reddit.com/gallery/1btrqoz,29,1712039127.0,"I got into amc I think Iin 2020. I put thousands in , actually a lot of my 401k. I feel like I was cheated. Not gonna do the blame game. I finally sold today. Was worth high thousands at one point. I sold today for 178 dollars. I was heavy in the stock. Believed it. That's not important. I took these screenshots today. Living in the moment the highest I remember amc stock getting was around 72 dollars. I'm no stock expert. None of the Above. But I'd like to know why these differ and why so much higher than that 72. IM just a normal dude with questions. Amc never hit over 100. I'm glad and grateful for your input. Again I took these screenshots today as you can look them up yourself",2024-04-02 06:25:27,2024-04-02 06:25:27+00:00
+7yr Death cross next week. #solarmaximum,269,1btrsei,https://www.reddit.com/gallery/1btrsei,94,1712039319.0,,2024-04-02 06:28:39,2024-04-02 06:28:39+00:00
+7yr Death cross next week. #solarmaximum,7,1btrsei,https://www.reddit.com/gallery/1btrsei,1,1712039319.0,,2024-04-02 06:28:39,2024-04-02 06:28:39+00:00
+Has anyone looked into TAOlie????,1,1bts7a0,https://i.redd.it/l3z39x2sk0sc1.jpeg,1,1712040965.0,Looks insane wanted to see any thoughts on it ….. yall seeing what I’m seeing?? It’s 5 days old?,2024-04-02 06:56:05,2024-04-02 06:56:05+00:00
+IWTL how to stop dry humping my dog. ,0,1btsh3n,https://www.reddit.com/r/wallstreetbets/comments/1btsh3n/iwtl_how_to_stop_dry_humping_my_dog/,8,1712042074.0,"IWTL how to stop dry humping my dog.
+
+I have adhd so I often pin down my dog by the throat with both hands and dry hump her while semi erect. Because of my adhd it's really hard to break this habit and I'm getting really sad because she always screams and whimpers while I do it. Not to mention I'm allergic to dogs so I'm always left with itchy red spots around my crotch area. Should I just put on pants or is there a practical way to stop even with adhd?",2024-04-02 07:14:34,2024-04-02 07:14:34+00:00
+Visa and Master card,2,1btsq05,https://www.reddit.com/r/wallstreetbets/comments/1btsq05/visa_and_master_card/,1,1712043085.0,"I was wondering whether a public takeover offer is possible for companies like VISA or Mastercard (for example a Middle Eastern or Norwegian sovereign fund) or are these two companies, by their specificity, unable to be controlled? by a single shareholder with a majority of voting rights.",2024-04-02 07:31:25,2024-04-02 07:31:25+00:00
+my highly regarded brain had a thought ( very rare). Let’s talk Boeing.,0,1btswtf,https://www.reddit.com/r/wallstreetbets/comments/1btswtf/my_highly_regarded_brain_had_a_thought_very_rare/,19,1712043921.0,"Edit for further comedy:
+
+[https://tenor.com/en-CA/view/i-may-not-have-a-brain-gentlemen-but-i-have-an-idea-monsters-vs-aliens-blob-monster-i-may-not-have-a-brain-gentlemen-but-i-have-an-idea-gif-27360547](https://tenor.com/en-CA/view/i-may-not-have-a-brain-gentlemen-but-i-have-an-idea-monsters-vs-aliens-blob-monster-i-may-not-have-a-brain-gentlemen-but-i-have-an-idea-gif-27360547)
+
+So, our favourite aircraft manufacturer, what about it?
+
+Well, young padawans, I’ve been thinking a lot about Boeing recently. 
+
+Unless you’re living under a rock, you know they haven’t been having the best of times lately. Their public image and credibility as a serious aero company is in the gutter. 
+
+They’ve had a massive executive shuffle, stock’s down 27.30% ytd, and Airbus is somewhere out there praying on their downfall. 
+
+BUT, 
+
+Their fundamentals are still strong, realistically in 10 years Boeing will still most likely be out and about making airplanes and defence systems. Their partnership with uncle sam gives them a certain level of security even in the worst of times. 
+
+Long term I’m putting money on Boeing recovering, they just need better management. 
+
+But short term, they’ve got an earnings report coming up this month. Classic earnings play, and I’m betting they’re gonna report a terrible quarter and suffer the short term consequences.
+
+I’m new to options, so I was thinking I start small and simple with BA 180 Puts dated April 26th. 
+
+I don’t doubt that in 12 months their stock would have recovered, but I’m also fairly confident that they will take a hit this month until they figure their shit out. 
+
+What do you guys think? I have some experience with stocks, but if I go through with this, this would be my very first options play. 
+
+Even if ya’ll think I’m dumb for this, please explain the reasoning, I’m keen to learn. 
+",2024-04-02 07:45:21,2024-04-02 07:45:21+00:00
+my highly regarded brain had a thought ( very rare). Let’s talk Boeing.,1,1btswtf,https://www.reddit.com/r/wallstreetbets/comments/1btswtf/my_highly_regarded_brain_had_a_thought_very_rare/,1,1712043921.0,"So, our favourite aircraft manufacturer, what about it?
+
+Well, young padawans, I’ve been thinking a lot about Boeing recently. 
+
+Unless you’re living under a rock, you know they haven’t been having the best of times lately. Their public image and credibility as a serious aero company is in the gutter. 
+
+They’ve had a massive executive shuffle, stock’s down 27.30% ytd, and Airbus is somewhere out there praying on their downfall. 
+
+BUT, 
+
+Their fundamentals are still strong, realistically in 10 years Boeing will still most likely be out and about making airplanes and defence systems. Their partnership with uncle sam gives them a certain level of security even in the worst of times. 
+
+Long term I’m putting money on Boeing recovering, they just need better management. 
+
+But short term, they’ve got an earnings report coming up this month. Classic earnings play, and I’m betting they’re gonna report a terrible quarter and suffer the short term consequences.
+
+I’m new to options, so I was thinking I start small and simple with BA 180 Puts dated April 26th. 
+
+I don’t doubt that in 12 months their stock would have recovered, but I’m also fairly confident that they will take a hit this month until they figure their shit out. 
+
+What do you guys think? I have some experience with stocks, but if I go through with this, this would be my very first options play. 
+
+Even if ya’ll think I’m dumb for this, please explain the reasoning, I’m keen to learn. 
+",2024-04-02 07:45:21,2024-04-02 07:45:21+00:00
+"LUNR – low float, high %short, low avg volume",3,1btsx94,https://www.reddit.com/r/wallstreetbets/comments/1btsx94/lunr_low_float_high_short_low_avg_volume/,2,1712043974.0,"Anyone has his eyes on LUNR? It has a mkt cap of 339M, the float is only 33M (of 51M shares outstanding), and it has been climbing with an avg volume of just 9.9M. Considering there are 15M members on WSB, what would happen if everyone bought just a couple of shares for a couple of days?
+
+Btw it had spiked to 10.99 in Feb when they landed on the moon, then went sideways (literally) down to 5 and now it’s been steadily climbing back especially with news of new NASA contracts and another landing planned this year. yesterday's price 6.65
+
+&#x200B;",2024-04-02 07:46:14,2024-04-02 07:46:14+00:00
+"LUNR – low float, high %short, low avg volume",4,1btsx94,https://www.reddit.com/r/wallstreetbets/comments/1btsx94/lunr_low_float_high_short_low_avg_volume/,11,1712043974.0,"Anyone has his eyes on LUNR? It has a mkt cap of 339M, the float is only 33M (of 51M shares outstanding), and it has been climbing with an avg volume of just 9.9M. Considering there are 15M members on WSB, what would happen if everyone bought just a couple of shares for a couple of days?
+
+Btw it had spiked to 10.99 in Feb when they landed on the moon, then went sideways (literally) down to 5 and now it’s been steadily climbing back especially with news of new NASA contracts and another landing planned this year. yesterday's price 6.65
+
+Edit: forgot to add %shares short of float is 20.86%",2024-04-02 07:46:14,2024-04-02 07:46:14+00:00
+Basic-fit in for a large move 🚀 🚀💪💪,5,1btt841,https://www.reddit.com/r/wallstreetbets/comments/1btt841/basicfit_in_for_a_large_move/,7,1712045252.0," my fellow regards, listen up 
+
+BasicFit ain't your average gym, it's the McDonald's of fitness, serving up cheap  and very accessible memberships across Europe. They have been acquiring clubs and growing at a steady pace now for the past few years. As I basic-fit member I can tell you that they have the strongest most recognizable brand of any gym in western Europe  and are not slowing down their growth. When their annual reports dropped investors were displeased because they did not turn a profit because of their high lease and energy costs of new clubs. 
+
+I believe however the that the 15% drop is was a massive overreaction especially since the share price was already very low. I think it is time for $BFIT.NV to pump as hard as my muscles. The annual results were not nearly bad enough. Nearly ever figure was up from last year and their revenue is at an all-time high even the negative net profit was better than last year. I mean seriously the share price has not been this low since covid what more can I say. 
+
+So $BFIT.NV is definitely in for a large correction by the next month before the results of the first quarter, the most profitable time of the year for gyms .Or to put it simply “buy the dip fgt”. Personally I am stocking up on shares and calls expiring 1 may.
+
+Disclaimer: This ain't financial advice, just the ramblings of a fellow autist. Do your own DD and remember, stonks only go up! 🚀🏋️‍♂️💸",2024-04-02 08:07:32,2024-04-02 08:07:32+00:00
+$TORO Corp shipping company — good growth potential?,2,1btt92z,https://www.reddit.com/r/wallstreetbets/comments/1btt92z/toro_corp_shipping_company_good_growth_potential/,2,1712045366.0,"Excellent financials and management, slight recent dip, crazy profit margin & bread and butter value 
+
+Position: $350 long bought at 5.20",2024-04-02 08:09:26,2024-04-02 08:09:26+00:00
+Buying BNS.to,1,1bttbi4,https://www.reddit.com/r/wallstreetbets/comments/1bttbi4/buying_bnsto/,2,1712045643.0,"Other mentally unstable individuals, i believe I may be growing brain cells.
+
+I am thinking to purchase call options on BNS.to with strike price of 75 bucks. (10 months out)
+
+Perhaps I’m dumb or perhaps I’m not.
+
+Lmk what you think.",2024-04-02 08:14:03,2024-04-02 08:14:03+00:00
+"Fuck Warren Buffet, I am joining this movement",0,1bttkl5,https://i.redd.it/f9xs5stx11sc1.jpeg,4,1712046735.0,,2024-04-02 08:32:15,2024-04-02 08:32:15+00:00
+A company that will grow with the EV market,4,1bttujy,https://www.reddit.com/r/wallstreetbets/comments/1bttujy/a_company_that_will_grow_with_the_ev_market/,3,1712047901.0,"If you’re looking for a company poised to explode with the EV market, check out Aspen Aerogels. 
+
+In an EV battery bank, there are dozens of individual battery cells. When a battery cell short circuits, a tremendous amount of energy is quickly released to surrounding battery cells.  This causes a thermal runaway. Bad. 
+
+To prevent this, an insanely high end, very thin insulation is used to surround individual cells to prevent a catastrophic fire. This protects the car and the surviving battery cells. 
+
+Aspen aerogels was poised to leap into this market, and has found ridiculous growth through their product, Pyrothin, in this space. This is public knowledge, you can look it up in their earnings. 
+
+This isn’t an easy technology to replicate. A disgusting amount of R&D. 
+
+They’re currently building additional plants in GA, Mexico, and MA. These plants will pretty much be used for Pyrothin. 
+
+I’ll leave it there. Not a creative writer or business nerd, just someone completely bought into this technology and relatively young company.
+
+Idk if I’m supposed to share my position but I have calls and shares. My tendies are at Wendy’s or whatever, can’t understand wtf you guys are talking about half the time. ",2024-04-02 08:51:41,2024-04-02 08:51:41+00:00
+A company that will grow with the EV market,0,1bttujy,https://www.reddit.com/r/wallstreetbets/comments/1bttujy/a_company_that_will_grow_with_the_ev_market/,34,1712047901.0,"If you’re looking for a company poised to explode with the EV market, check out Aspen Aerogels. 
+
+In an EV battery bank, there are dozens of individual battery cells. When a battery cell short circuits, a tremendous amount of energy is quickly released to surrounding battery cells.  This causes a thermal runaway. Bad. 
+
+To prevent this, an insanely high end, very thin insulation is used to surround individual cells to prevent a catastrophic fire. This protects the car and the surviving battery cells. 
+
+Aspen aerogels was poised to leap into this market, and has found ridiculous growth through their product, Pyrothin, in this space. This is public knowledge, you can look it up in their earnings. 
+
+This isn’t an easy technology to replicate. A disgusting amount of R&D. 
+
+They’re currently building additional plants in GA, Mexico, and MA. These plants will pretty much be used for Pyrothin. 
+
+I’ll leave it there. Not a creative writer or business nerd, just someone completely bought into this technology and relatively young company.
+
+Idk if I’m supposed to share my position but I have calls and shares. My tendies are at Wendy’s or whatever, can’t understand wtf you guys are talking about half the time. 
+
+Edit: ASPN",2024-04-02 08:51:41,2024-04-02 08:51:41+00:00
+Broker for International Customers,1,1btu18i,https://www.reddit.com/r/wallstreetbets/comments/1btu18i/broker_for_international_customers/,3,1712048666.0,"Apart from interactive brokers, which other broker can i open an account with? I live in Tanzania.",2024-04-02 09:04:26,2024-04-02 09:04:26+00:00
+What happened?,0,1btueir,https://i.redd.it/vaf14l36c1sc1.jpeg,8,1712050177.0,,2024-04-02 09:29:37,2024-04-02 09:29:37+00:00
+How do we interpret profit and earnings of stocks?,2,1btuhsk,https://www.reddit.com/r/wallstreetbets/comments/1btuhsk/how_do_we_interpret_profit_and_earnings_of_stocks/,5,1712050534.0,"Additionally, is there a resource available that lists out all the stocks on Dow Jones and their profit/earnings?",2024-04-02 09:35:34,2024-04-02 09:35:34+00:00
+Why unemployment rising in states like California and New Jersey isn't a problem for the US economy,0,1btul9k,https://www.reddit.com/r/wallstreetbets/comments/1btul9k/why_unemployment_rising_in_states_like_california/,28,1712050926.0,"The US labor market has remained resilient since the start of the year, but there are signs of some cracks forming underneath the surface.
+
+The unemployment rate has been picking up in states across the country. Or, more accurately, on either side of the country.
+
+In California, for instance, the state unemployment rate hit 5.3% in February, up 0.8% from a year ago and the highest in the nation. New Jersey's unemployment rate hit 4.8% in February, also up 0.8%. And this as the national unemployment rate ticked up to 3.9% in March.
+
+https://finance.yahoo.com/news/why-unemployment-rising-in-states-like-california-and-new-jersey-isnt-a-problem-for-the-us-economy-090513132.html",2024-04-02 09:42:06,2024-04-02 09:42:06+00:00
+Would we?,1,1btur79,https://i.redd.it/a7eq2r5bg1sc1.png,1,1712051594.0,,2024-04-02 09:53:14,2024-04-02 09:53:14+00:00
+"US, Canadian companies kick off 2024 with layoffs",0,1btuu8o,"https://www.tradingview.com/news/reuters.com,2024:newsml_L3N3GB1XM:0-us-canadian-companies-kick-off-2024-with-layoffs/?mobileapp_new=true",7,1712051936.0,,2024-04-02 09:58:56,2024-04-02 09:58:56+00:00
+"US, Canadian companies kick off 2024 with layoffs",1,1btuu8o,"https://www.tradingview.com/news/reuters.com,2024:newsml_L3N3GB1XM:0-us-canadian-companies-kick-off-2024-with-layoffs/?mobileapp_new=true",1,1712051936.0,,2024-04-02 09:58:56,2024-04-02 09:58:56+00:00
+"Daily Discussion Thread for April 2, 2024",250,1btv3w6,https://www.reddit.com/r/wallstreetbets/comments/1btv3w6/daily_discussion_thread_for_april_2_2024/,10519,1712052915.0,[View Post](https://www.reddit.com/r/wallstreetbets/post-viewer/1btv3w6),2024-04-02 10:15:15,2024-04-02 10:15:15+00:00
+$WPM - TARDS ON THE SHIP!,7,1btvscm,https://www.reddit.com/r/wallstreetbets/comments/1btvscm/wpm_tards_on_the_ship/,6,1712055445.0,"Ok, let's look at this hotbed of MSNBC hated stocks, the mining streamers. Now I know most of you only eat fast food, but for any of you who could afford Costco, you would have noticed one thing over the last year. That is Costco can't keep up with the gold and silver sales they are making. That is right, they started selling physical bullion and it has been widely successful. Think of physical bullion to crypto as actual art is to NFTs. All of the big miners are poised for upside Newmont, Barrick, Agnico, etc., but when you want to see real momentum with options, you want to look at streamers, low overhead, and huge margin players. The Apple and Microsoft of this market are Wheaton and Franco-Nevada.
+
+&#x200B;
+
+Let's get down to business if gold prices go up faster these streamers generally have a fixed price, so they make more money regardless of how oil or rubber prices affect the mining operation. All higher margins regardless of the underlying costs operational or maintenance costs. WPM saw a Q4 2022 to Q4 2023 total revenue growth of +30% without any new additional production brought online. Now picture what will happen as gold makes its way to $2500. Compounding... I like the longer-dated options here. 55c for June and 65c for September. Anything above $55 strike should bring in a lot of momentum and chasing, especially if gold continues to rise with the stock price. There will certainly be an opportunity to sell puts at the 40p trough for extra cash.",2024-04-02 10:57:25,2024-04-02 10:57:25+00:00
+The best performing stocks in S&P 500 YTD 2024,5,1btwohn,https://i.redd.it/psv19jiq02sc1.jpeg,1,1712058438.0,,2024-04-02 11:47:18,2024-04-02 11:47:18+00:00
+Feels like my account has hit it’s plateau 😪,9,1btxee8,https://i.redd.it/cq8gwe9d72sc1.jpeg,47,1712060668.0,,2024-04-02 12:24:28,2024-04-02 12:24:28+00:00
+Feels like my account has hit it’s plateau 😪,1,1btxee8,https://i.redd.it/cq8gwe9d72sc1.jpeg,17,1712060668.0,,2024-04-02 12:24:28,2024-04-02 12:24:28+00:00
+Serious question : why is DASH up while other stocks are down?,0,1btxyg3,https://www.reddit.com/gallery/1btxyg3,4,1712062328.0,Seems like DASH is very resilience to stock market downtrend,2024-04-02 12:52:08,2024-04-02 12:52:08+00:00
+"Tesla misses deliveries, massive drop",3682,1btyfr8,https://www.reddit.com/r/wallstreetbets/comments/1btyfr8/tesla_misses_deliveries_massive_drop/,1224,1712063649.0,"Tesla handed over 386,810 vehicles in the first three months of 2024, falling well short of analysts’ average estimate for 449,080 deliveries, the company said in a statement Tuesday. The stock fell 6% in early trading.",2024-04-02 13:14:09,2024-04-02 13:14:09+00:00
+"Should I roll, pull out or hodl?",1,1btyj19,https://i.redd.it/o4pmtkrzg2sc1.jpeg,13,1712063905.0,Ran out of day trades yesterday and couldn’t get out of this when it was up a bit so now I’m a little stuck,2024-04-02 13:18:25,2024-04-02 13:18:25+00:00
+45k>200k+ in 3 business days.,39,1btyjin,https://www.reddit.com/gallery/1btyjin,17,1712063943.0,,2024-04-02 13:19:03,2024-04-02 13:19:03+00:00
+PAINT IT BLACK!,17,1btyolz,https://www.reddit.com/r/wallstreetbets/comments/1btyolz/paint_it_black/,5,1712064336.0,"Happy Tuesday, Regards.... my anthem for today:
+
+&#x200B;
+
+I see a red graph and I want it painted black  
+No bullish gains for me, all my calls are in the back  
+I see the market rise and I want it painted black  
+I lost it all, my tendies gone, ain't no bouncing back
+
+*I bet it all on Game Stop, now I'm in the red*  
+*All my options expired worthless, can't get out of bed*  
+*I see the ticker symbols flashing, can't take it anymore*  
+*I've lost it all on Wall Street Bets, can't win anymore*
+
+I look inside my broker's app and see my portfolio  
+All those losses staring back, how did it all go so low?  
+I tried to yolo on the meme stocks, thought I'd be a king  
+But now I'm just a bag holder, with nothing left to bring
+
+*I bet it all on AMC, now I'm in the red*  
+*All my options expired worthless, can't get out of bed*  
+*I see the ticker symbols flashing, can't take it anymore*  
+*I've lost it all on Wall Street Bets, can't win anymore*
+
+Maybe I'll try some DD, but it's too late,   
+I fear I've been burned too many times, can't see the way clear  
+So I'll keep on gambling, hoping for that lucky break  
+But I know deep down inside, it's just more pain I'll take
+
+*I bet it all on Robinhood, now I'm in the red*  
+*All my options expired worthless, can't get out of bed*  
+*I see the ticker symbols flashing, can't take it anymore*  
+*I've lost it all on Wall Street Bets, can't win anymore*
+
+I see a red graph and I want it painted black  
+No bullish gains for me, all my calls are in the back",2024-04-02 13:25:36,2024-04-02 13:25:36+00:00
+TSLA TO $125,88,1btyqgx,https://www.reddit.com/r/wallstreetbets/comments/1btyqgx/tsla_to_125/,48,1712064474.0,"You heard it here first regards. Predicted deliveries: 454,200 vs actual: 386,810. Its time to pack it in- sell it all.
+
+https://preview.redd.it/l7fwxruli2sc1.png?width=1783&format=png&auto=webp&s=38a33927ab529a57c247dd6cf9255fcb117faf90",2024-04-02 13:27:54,2024-04-02 13:27:54+00:00
+If it ain't red you don't belong in this thread ,24,1btyuvg,https://i.redd.it/6pqmkktmj2sc1.png,12,1712064794.0,,2024-04-02 13:33:14,2024-04-02 13:33:14+00:00
+we eating good tonight arent we?,2,1btz9i0,https://www.reddit.com/gallery/1btz9i0,1,1712065895.0,,2024-04-02 13:51:35,2024-04-02 13:51:35+00:00
+SHORT TESLA: Tesla Offers FSD Free Trails to Customers,4,1btzbme,https://www.reddit.com/r/wallstreetbets/comments/1btzbme/short_tesla_tesla_offers_fsd_free_trails_to/,5,1712066052.0,"Tesla CEO Elon Musk is now requiring dealership employees to install and demonstrate FSD to all new cars sold before finalizing a delivery.
+
+The Tesla CEO has long promoted the use of FSD, or Full Self-Driving Driver Assistance system, a potentially significant profit source for the EV maker. The software currently costs $12,000 a month or $199 per month for the subscription model.
+
+How has FSD worked out so far for Tesla? 
+
+Well, not too good.
+
+The uptake of FSD has been relatively low so far. Musk has offered to give out free trials before. As early as December 2020, Tesla offered three months of free FSD to drivers in order to drive up sales revenue. The company has also promised to provide updates for the application every two weeks.
+
+Sides are split on this offering as Tesla aficionados and EV skeptics give their takes all over social media. On the one hand, this move by Musk shows desperation, siting this ploy as one of the latest in a long-running series of end-of-quarter stunts by the CEO in order to boost sales, deliveries, and revenues. Fanatics of the brand believe that FSD is the future of EV technology and is at the center stage of how automobile transit will play out over the coming years. Users of FSD say that it genuinely operates better than what is reported in the media.
+
+However, not all is looking good for the system. Over the years, Tesla has repeatedly fallen short of its promises to deliver fully autonomous driving. FSD still requires active supervision, meaning that one has to be attentive to the wheel at all times in order to safely operate the vehicle. 
+
+To top it all off, Musk’s new requirement of FSD installation and demos can really harm the brand and product in multiple ways. Not only does this practice add additional time to an already lengthy sales process, but if the FSD product reveals any critical issues, it can be severely damaging to the company, given that all new Tesla owners will see the product in action via demo.
+
+This new free-trial offer is opening eyes to the current situation at hand; with Tesla’s decline in sales and rampant competition brewing overseas, things are not looking good for the EV company.",2024-04-02 13:54:12,2024-04-02 13:54:12+00:00
+Nvda give and nvda take,24,1btzd0a,https://i.redd.it/75ltgo6on2sc1.jpeg,7,1712066152.0,"Bought nvda in 2022 and my portfolio in the green in jan24 and above 25k threshold because of nvda jump in price. Past few months, I been day trading, playing and learning how options work using profit from nvda share. Been gaining extra profit from the play and decided to scale up. I have confidence in nvda and fomo buying nvda options when it reach 950 last two week. And that result in the sharp drop and my account go back to below 25k. Im still addicted to options play though. Should I inject more fund and keep gambling? Lmao",2024-04-02 13:55:52,2024-04-02 13:55:52+00:00
+Tuition YOLO ,1,1btzffn,https://i.redd.it/et3czfw6o2sc1.jpeg,1,1712066326.0,,2024-04-02 13:58:46,2024-04-02 13:58:46+00:00
+enjoy regards #guh,294,1btzumd,https://www.reddit.com/gallery/1btzumd,131,1712067375.0,,2024-04-02 14:16:15,2024-04-02 14:16:15+00:00
+enjoy regards #guh,34,1btzumd,https://www.reddit.com/gallery/1btzumd,7,1712067375.0,,2024-04-02 14:16:15,2024-04-02 14:16:15+00:00
+"Finally, AAPL🚀",46,1bu02r8,https://i.redd.it/2lpam8p1t2sc1.jpeg,18,1712067959.0,,2024-04-02 14:25:59,2024-04-02 14:25:59+00:00
+JOLTS Job Openings - Monthly Change,7,1bu06im,https://i.redd.it/rdx3gy7ut2sc1.jpeg,6,1712068226.0,,2024-04-02 14:30:26,2024-04-02 14:30:26+00:00
+JOLTS Job Openings - Monthly Change,3,1bu06im,https://i.redd.it/rdx3gy7ut2sc1.jpeg,1,1712068226.0,,2024-04-02 14:30:26,2024-04-02 14:30:26+00:00
+100 percent gains on ATMU 27c Apr 19 1k>2k 10 days held.,6,1bu0cwh,https://www.reddit.com/gallery/1bu0cwh,1,1712068681.0,,2024-04-02 14:38:01,2024-04-02 14:38:01+00:00
+$TPET - #DDAmanda Chart,2,1bu0gsv,https://i.redd.it/706yg0syv2sc1.jpeg,2,1712068963.0,,2024-04-02 14:42:43,2024-04-02 14:42:43+00:00
+"IV crush here, IV crush there",9,1bu0lyg,https://i.redd.it/mubx6ra5x2sc1.jpeg,2,1712069338.0,,2024-04-02 14:48:58,2024-04-02 14:48:58+00:00
+46%+ so far YTD,4,1bu0pne,https://i.redd.it/psufyo6xx2sc1.png,3,1712069598.0,,2024-04-02 14:53:18,2024-04-02 14:53:18+00:00
+DXYZ ETF that will change the wallstreetbets financially,1,1bu0u6a,https://www.reddit.com/r/wallstreetbets/comments/1bu0u6a/dxyz_etf_that_will_change_the_wallstreetbets/,1,1712069926.0,"DXYZ Breakdown (simplified)
+
+I noticed some people in here are confused about what this is or how this works. I wanted to explain in a completely non-bullshit and non-biased way. I will leave my personal opinion out of this until the last couple lines.
+
+**What is DXYZ?**
+-It's ""like"" an ETF. An ETF is a single ticker you can purchase, that gives you a piece of it's holdings. DXYZ owns a small portion of 23 companies. I'll explain DXYZ itself as a company, but it purchases, sells, and holds ""non-publicly listed shares of other companies"".
+
+SPY (S&P500) for example, is also an ETF. SPY specifically holds 500 of the biggest (by market cap) USA companies. It's 7% Microsoft, 6% Apple, 4.5% Nvidia, and so on. It holds the biggest percentages of the biggest companies. Microsoft is worth more than Apple, so it has a bigger portion of Microsoft. 
+
+Now you can buy Microsoft (MSFT) on it's own for $420/share, but then all you're eggs are in one basket. By buying SPY you reduce you're exposure to MSFT, but also gain exposure to 499 other companies. (You'll own less of MSFT but now you also own a part of 499 other companies). Buy 1x SPY and you're actually buying small portions of 500 companies, at varying weights based on how big those companies are (market cap). Smaller companies get less weight.
+
+**What is a market cap?**
+-A market cap is the TOTAL value of a company (according to the stock market). Basically ""what if you bought ever single share of a company"", how much would it cost you? Microsoft is currently $420 per share. They have 7.43B shares. If you were to buy every share at the current price of $420/share, it would cost you $3.13T....yes that's three trillion dollars. Microsoft is trading on the public market for $3T, therefor ""Microsoft is worth $3T""
+
+**Why does MSFT trade at $3T?**
+-Do they make $3T a year in revenue, or earnings? No. $420/share (or $3T total) is just what the market is WILLING to pay at this time. It prices in future potential of the company. Here's a quick look into some of their numbers so you can compare them to the $3T valuation.
+
+Revenue (how much money they get for selling stuff) $211B per year
+
+Income (how much of that revenue they actually keep after paying to operate. This is the actual profit) $72B per year
+
+^As you can see none of these numbers are even close to the $3T it is trading at. The amount of stuff they SELL is 14x less than the market cap, and the actual profit is 41x less than the market cap.
+
+**Why do people pay more than its actual value?**
+-It's about future potential. MSFT will trade much closer to it's actual value years from now when it is no longer able to grow and show it still has more potential.
+
+*This large multiple that it is trading at compared to its revenue or income, is totally normal and that multiple changes based on it's potential and current numbers.
+
+**How can you calculate what I SHOULD be paying for an ETF.**
+-We'll, with SPY it's very simple since all of those companies are already publicly traded. You can literally just say, ok we know SPY is 7% MSFT, and we know MSFT is worth $3T, so we can add up all these known values of the underlying holdings (MSFT, APPL, NVDA, etc) and look at the how much SPY owns of each and get a total value. THIS IS CALLED THE NAV (Net Asset Value). It's the total value of all of it's assets (by market cap). The NAV for SPY is $522. This is what it should be trading at if you just added up all of it's holdings, and used the current market value of each of its holdings. SPY is actually trading at $523... so very close to it's NAV.
+
+-So the NAV is just calculated by adding up all of it's holdings, and checking the current price of those holdings. 
+
+**What holdings does DXYZ have?**
+-DXYZ is currently holding 23 companies, and is targeting 100 total.
+-They only purchase privately held companies (not currently on the stock exchange)
+Here are the 23 holdings: (keep in mind 34.6% of DXYZ is SpaceX... they don't own 34.6% of SpaceX)
+
+SpaceX 34.6%
+
+Axiom Space 9.7%
+
+Boom Supersonic 4.6%
+
+Epic Games 4.0%
+
+Brex 4.0%
+
+Superhuman 4.0%
+
+OpenAI 3.8%
+
+Revolut 3.4%
+
+ClassDojo 3.0%
+
+Relativity Space 2.7%
+
+Stripe 2.6%
+
+AtoB 2.4%
+
+Instacart 2.0%
+
+Chime 1.9%
+
+Public 1.5%
+
+Jeeves 1.4%
+
+Impossible Foods 1.3%
+
+Discord 1.2%
+
+Klarna 1.2%
+
+Automation Anywhere 0.9%
+
+Plaid 0.5%
+
+Bolt Financial 0.3%
+
+Flexport 0.2%
+
+**What is the NAV of DXYZ (what is the total value of it's holdings)?**
+-this is where it gets complicated. Since these companies are not publicly traded, it's difficult to get current accurate data on pricing. I know SpaceX is valued at around $80-100 per share (~150B Market Cap), but that's 3 month old data. I can't see their earnings or revenue to see if that's totally over valued or not. If I wanted to buy just SpaceX shares, it's a huge pain in the ass, and there might even be a large minimum order, and I might even use some shit site and get scammed. You currently cannot buy SpaceX on the public stock market, or any of DXYZ's other 22 holdings.
+
+**How does DXYZ make money?**
+-2.5% management fee. They take 2.5% of people's investments to pay themselves for putting together the ETF and taking care of the work of buying/selling companies to keep the ETF online.
+-do they use this money to buy more share of other companies? No. They will have to sell some of their holdings to free up cash to buy other holdings. Currently they are 9.1% Cash. 
+
+**Does DXYZ make money when I buy DXYZ shares**
+-No. Just like every other publicly traded company, the company itself does not get your money. Best way to explain this is with a car. You buy a Ford truck from Ford. Ford gets that money. You drive that Ford for 10 years then sell it to some random person. When you sell that used car, you get that money, not Ford. This is the same for public shares. When you buy DXYZ shares, some random person on the stock market that sold you those shares gets your money, not DXYZ. 
+
+**Did DXYZ make money when it went public a few days ago**
+No, not in this case. Usually it's the company itself that goes public and they would keep that money from the IPO. In this case with DXYZ, it was a DXYZ share holder themselves that offered their DXYZ shares to the public market. That DXYZ shareholder sold their position for $8/share, brought them to the public market, and we are now trading those shares back and forth to each other on the market. It no longer effects the original share holder as he got his $8/share and is now out. It's important to note that we are just trading that small portion of total DXYZ shares that the single share holder brought to market. We're not trading all the DXYZ shares, as most of those are still private.
+
+**Why is the price so crazy (this went from $8 to $31, back to $8, then now at $25 all in a couple days)**
+I believe these shares were sold for $8 originally, then begun trading on the market at that price. Since there is such an insanely small amount of shares available, it's a matter of supply and demand. We saw lot of demand as people want a piece of this, but the supply is very low as it's just a single DXYZ's shareholder that brought these shares public... not ALL DXYZ shares are public, just this limited amount. When you have low supply and high demand, the price rockets. > If you're selling tomatoes at the market and nobody else has tomatoes to sell, people will start out bidding each other to get a tomato, and will be willing to pay more since they can't get tomatoes anywhere else. People may be willing to pay 2x or 10x ""normal tomato prices"". 
+
+**Is DXYZ the only way to get a part of these companies on the stock market?**
+-technically no, but pretty much. Google (GOOG) for example also owns a piece of SpaceX. When you buy GOOG, you're also buying into their position of SpaceX. The problem is for every share of GOOG you own, they own so much other stuff, only like 0.5% of you're money actually gets invested into SpaceX. With DXYZ on the other hand, 34.6% of your money goes into SpaceX. DXYZ is made 100% of non-public companies. 100% of you're exposure is to these non-easily accessible companies. THAT is where the value of DXYZ comes from. It's a vehicle to access not easily assessable companies. What is that premium that people are willing to pay for that access? That's the quadrillion dollar answer (adjusted for inflation).
+
+**Market maker & Options**
+-When will options be available? We don't know, but typically it's about 3-5 business days since it hits the market. It needs to be assigned a market maker that will provide liquidity and stability to the ticker. Being how batshit crazy the price movement has been, IV will be insane and options will be expensive. One of the market makers jobs is to keep the ETF trading as close to NAV as possible. Being such a low share count, this will be very difficult with any sort of bullish momentum on it. Being 100% private shares on the underlying's, this will be difficult to do accurately. 
+
+----
+Here's some numbers on DXYZ (these will change when the market opens Monday)
+
+Market Cap: $272m
+NAV: $40 
+
+Cash: 9.1%
+
+Share Price: $24.60 (afterhours close Thursday Mar 28th)
+
+----
+PERSONAL OPINIONS BELOW
+
+With that said. Looking at DXYZ's current holdings, I believe the NAV of DXYZ to be around $40 per share Again, very difficult to get an accurate number. Now... will this trade at NAV like an ETF should, or will it trade higher due to people willing to pay more to get access to otherwise unaccesable companies? I think so. How much? Who knows.
+
+Why is DXYZ trading at $25 if it's NAV is $12? This is ""an added multiplier you won't see on ETFs with publicly traded companies"". Nobody is going to pay 2x NAV on SPY as you could literally just buy those 500 companies individually for less just as easily. You can't do that with DXYZ, so it's trading above its NAV. How much above it's NAV should it be trading at? That's up to the stock market and buyers.
+
+Lets say SpaceX decides to go public in 10 years. Ya sure you'll be able to buy SpaceX on the stock market then, but it may be worth $1,000 per share at that point, while it's worth $100/share now. Are you willing to pay $150/share now for SpaceX considering its possible future potential? That is what this ETF is all about. It brings public assess to shares of private companies.
+
+---
+**TLDR:** DXYZ isn't really comparable to anything else as it's 100% made of non-publicly listed companies. What is its true NAV and what should DXYZ be trading at? Will DXYZ trade at a multiple above its NAV and what will that multiple be?
+
+We don't know, but we will find out as it trades. What we do know is this is basically the only way to easily get a piece of these companies, and the available shares are very low. This will result in VERY high volatility as small buy/sell orders will make big movements in its price. We have already seen this volatility as this traded from $8 to $31 and back and forth in only a couple days. This is due to it's tight float. This has like 2 mentions on reddit, out side of this insanely big sub. People don't even know it exists yet and the price swings have been batshit crazy.
+
+You are here before the hype has started. I think once people realize DXYZ exists, they will jump on it, and the tight share count will result in big price movements. Those insane price movements in the last couple days happened due to short supply. That supply will stay the same. If we get even more demand for DXYZ, it will create an even higher imbalance of supply and demand and will create massive movements as the supply is so small.
+
+Investing in DXYZ is a bet that you're getting in before the hype. Given the low mentions of DXYZ on reddit, I believe we're still before the hype, and the hype is yet to come. It's a highly speculative play on highly speculative, non-easily accessible stocks, with a tight float. That's a recipe for rockets once you add hype.
+🚀🚀
+
+TLDR the TLDR: Buy shares of $DXYZ we going to the moon on a SpaceX Rocket and selling covered calls til Valhalla ",2024-04-02 14:58:46,2024-04-02 14:58:46+00:00
+TSLA puts printed. When should I buy my TSM calls?,14,1bu1w1j,https://i.redd.it/arybguod63sc1.jpeg,3,1712072442.0,,2024-04-02 15:40:42,2024-04-02 15:40:42+00:00
+Sell Sell Sell!,2,1bu25m2,https://www.reddit.com/r/wallstreetbets/comments/1bu25m2/sell_sell_sell/,2,1712073081.0,,2024-04-02 15:51:21,2024-04-02 15:51:21+00:00
+calls on spy,1,1bu27m4,https://i.redd.it/8j48pgjn83sc1.png,1,1712073223.0,,2024-04-02 15:53:43,2024-04-02 15:53:43+00:00
+Thank god for oil,225,1bu290d,https://i.redd.it/xbxu22iy83sc1.jpeg,56,1712073319.0,,2024-04-02 15:55:19,2024-04-02 15:55:19+00:00
+Thank god for oil,3,1bu290d,https://i.redd.it/xbxu22iy83sc1.jpeg,1,1712073319.0,,2024-04-02 15:55:19,2024-04-02 15:55:19+00:00
+20k into spy puts last week,942,1bu34m3,https://www.reddit.com/gallery/1bu34m3,95,1712075440.0,"Usually only lose money on puts, but I saw small caps ripping last week and usually that’s the sign of the end of a bull run (I think). Also wsb was at all time levels of bullishness which is never a good sign. Sadly I bought 5 min before that huge godly green candle at close last week which brought me down 20% but I held thru and exited around 50%. Solid dub",2024-04-02 16:30:40,2024-04-02 16:30:40+00:00
+Down 85k YTD Thanks To Options,1046,1bu3aun,https://i.redd.it/0cy8fkqjg3sc1.jpeg,440,1712075862.0,"I lost my job in early January and decided to start gambling again heavily in March. I did multiple earnings plays that went belly up such as DKS, Ulta, FIVE, etc. and the final yolo was PVH Calls. I put my last 30k down on Calls yesterday expecting a top and bottom earnings beat and positive guidance. I really did my research on this company all weekend. I was aware of how Lululemon missed guidance and fell but i thought this would be different. This company wasn’t trading in the $400-$500 range. If i would have inversed myself i would have made a 10 bagger on puts. All my losses would have been wiped out on one trade! My calls were thanos snapped out of existence. I didn’t sleep at all last night and debating liquidating my IRA to live on now. ",2024-04-02 16:37:42,2024-04-02 16:37:42+00:00
+Enjoy my dumb plays,3,1bu3l7r,https://i.redd.it/u5huvrwni3sc1.jpeg,5,1712076573.0,"I’ve been making all the wrong decisions and I’m getting triggered 
+I need help! 🤣",2024-04-02 16:49:33,2024-04-02 16:49:33+00:00
+PAA Jan17 20c up 140% props to the regard who sold me on the DD,171,1bu3m57,https://i.redd.it/nvfcwepui3sc1.png,55,1712076637.0,,2024-04-02 16:50:37,2024-04-02 16:50:37+00:00
+PAA Jan17 20c up 140% props to the regard who sold me on the DD,5,1bu3m57,https://i.redd.it/nvfcwepui3sc1.png,1,1712076637.0,,2024-04-02 16:50:37,2024-04-02 16:50:37+00:00
+RDDT > DJT.  Shouldn't be mentioned in same breath,2,1bu3rkm,https://www.reddit.com/r/wallstreetbets/comments/1bu3rkm/rddt_djt_shouldnt_be_mentioned_in_same_breath/,1,1712077003.0,"RDDT at least resembles a legit company and has some potential to make $, however small that potential might be.  DJT is a pipe dream",2024-04-02 16:56:43,2024-04-02 16:56:43+00:00
+Everything is fine,4,1bu3s17,https://i.redd.it/6n7qqjhxj3sc1.png,2,1712077036.0,,2024-04-02 16:57:16,2024-04-02 16:57:16+00:00
+Goldman Sachs starts with Buy on Cameco stock amid high uranium demand | By Investing.com ,6,1bu469m,https://www.investing.com/news/company-news/goldman-sachs-starts-with-buy-on-cameco-stock-amid-high-uranium-demand-93CH-3359001,2,1712077984.0,,2024-04-02 17:13:04,2024-04-02 17:13:04+00:00
+Goldman Sachs starts with Buy on Cameco stock amid high uranium demand | By Investing.com ,2,1bu469m,https://www.investing.com/news/company-news/goldman-sachs-starts-with-buy-on-cameco-stock-amid-high-uranium-demand-93CH-3359001,1,1712077984.0,,2024-04-02 17:13:04,2024-04-02 17:13:04+00:00
+"Make it stop, please! Enjoy my loss regards. ",136,1bu4e7s,https://i.redd.it/e8zoe50do3sc1.jpeg,62,1712078490.0,,2024-04-02 17:21:30,2024-04-02 17:21:30+00:00
+"Make it stop, please! Enjoy my loss regards. ",17,1bu4e7s,https://i.redd.it/e8zoe50do3sc1.jpeg,15,1712078490.0,,2024-04-02 17:21:30,2024-04-02 17:21:30+00:00
+MSTR put + DD,11,1bu4z0t,https://i.redd.it/nrpyj1tes3sc1.jpeg,28,1712079853.0,"Spent the whole holiday researching, and I can safely say: never in my life have I been so sure about being a 🐻. 
+
+The days of buying MSTR for BTC exposure is over. Currently, the NAV premium for buying MSTR is ~180%. Even the die hard Saylor fans on MSTR subreddit worry about it. Besides, SEC regulated bitcoin funds are now available, which reduces MSTR’s UVP. 
+
+Additionally, with the upcoming halving there is a chance bitcoin falls in price. The average price that MSTR has paid for bitcoin is around 35-40k. For that, they accumulated ~$3Bn worth of debt. With measly $80M yearly revenue from their software development services, how would they be able to keep their loaners away from demanding a repurchase (something that is possible to do according to the press release)?
+
+Thanks for reading, fuck anyone who says this is a portfolio for ants, and, of course, this is not financial advice.
+
+Sources:
+
+MSTR/BTC stock premium: https://microstrategystockpremium.com
+
+MSTR last earnings presentation with all the numbers: https://assets.contentstack.io/v3/assets/bltb564490bc5201f31/blt9fe0e76f0b8b3ab0/65c29cdcd6cf0435f215211d/microstrategy-q4-2023-earnings-presentation.pdf
+
+“Holders of notes may require MicroStrategy to repurchase their notes on September 15, 2028 or upon the occurrence of certain events that constitute a fundamental change under the indenture governing the notes at a repurchase price equal to 100% of the principal amount of the notes to be repurchased, plus any accrued and unpaid interest to, but excluding, the date of repurchase.”: https://www.microstrategy.com/press/microstrategy-completes-603-million-offering-of-0875-convertible-senior-notes-due-2031_03-19-2024
+",2024-04-02 17:44:13,2024-04-02 17:44:13+00:00
+Boston Dynamics... Is HYMTF a good investment?,3,1bu50q2,https://www.reddit.com/r/wallstreetbets/comments/1bu50q2/boston_dynamics_is_hymtf_a_good_investment/,1,1712079967.0,"Boston Dynamics is a leading robotics company that could be the forefront of a potential robotics revolution. Given Hyundai owns 80% of the company do you believe it is a good investment?  
+
+
+[https://www.msn.com/en-us/news/crime/a-robotic-police-dog-named-roscoe-created-by-boston-dynamics-took-a-bullet-and-helped-avert-a-fatal-shooting-police-say/ar-BB1kNsMr](https://www.msn.com/en-us/news/crime/a-robotic-police-dog-named-roscoe-created-by-boston-dynamics-took-a-bullet-and-helped-avert-a-fatal-shooting-police-say/ar-BB1kNsMr)",2024-04-02 17:46:07,2024-04-02 17:46:07+00:00
+Y’all knew this would happen,3,1bu514q,https://i.redd.it/lhrdqzzts3sc1.jpeg,3,1712079994.0,"
+
+TRUSTED SINCE 1901, big shout out thanks to all the corporate turds💩💩 who helped get us here, especially Rosiland Brewer. Without all your dedication and tiredness money wasting habits, this Reddit won’t have been possible. 
+",2024-04-02 17:46:34,2024-04-02 17:46:34+00:00
+Disney having a major shareholder vote tomorrow at 1:00 p.m. Eastern,519,1bu59q7,https://i.redd.it/uotwjkfiu3sc1.jpeg,203,1712080559.0,"This is a big board seat shake up. Backed by Vanguard.
+
+I think investors are a little bit wary, but either way the vote goes, I think the stock is going up tomorrow.
+
+Position 
+
+",2024-04-02 17:55:59,2024-04-02 17:55:59+00:00
+H5N1 virus. It's confirmed that it jumped to mammals (cows) which is already alarming but my now,0,1bu5bmu,https://www.reddit.com/r/wallstreetbets/comments/1bu5bmu/h5n1_virus_its_confirmed_that_it_jumped_to/,1,1712080688.0,as of this hour apparently it has jumped to humans. This is the equivalent as of a 10 alarm fire of epidemiologist. Literally 50% fatality rate. $GSK people. You heard it here first,2024-04-02 17:58:08,2024-04-02 17:58:08+00:00
+WBA stock at a 52 weak low is it worth buying ? ,1,1bu5d0z,https://www.reddit.com/r/wallstreetbets/comments/1bu5d0z/wba_stock_at_a_52_weak_low_is_it_worth_buying/,0,1712080785.0,Walgreens is trading 18.90 a share with 8.65% dividend yield because they owe 2.7 billion in unpaid taxes… is this being overblown for there stock dropping as far as it did and is it worth buying ???,2024-04-02 17:59:45,2024-04-02 17:59:45+00:00
++60k on TSLA puts,172,1bu5lzk,https://i.redd.it/syjyohgvw3sc1.jpeg,36,1712081353.0,"In a shock to (hopefully) no one, deliveries were hilariously terrible and outlook is bleak atm. 
+
+Started with 30 contracts at 11.95. Tripled down with another 70 contracts at 6.75. Total cost basis: 8.21
+
+“Thanks for saving TSLA”
+“New ATH coming thanks to you”
+“Way to late for this”
+“Obvious inverse”
+
+Regards to all of those who inversed and argued that “TSLA is not a car company!”
+
+Special shout out to u/fakeyfaked13 who did actually inverse and somehow we both came out big winners, wtf?
+
+May buy in again today or in the run to earnings. ",2024-04-02 18:09:13,2024-04-02 18:09:13+00:00
+Confused About Correlating EPS Growth and PE Ratio Growth for Tata Consumers: Seeking Insights!,2,1bu5rgb,https://www.reddit.com/r/wallstreetbets/comments/1bu5rgb/confused_about_correlating_eps_growth_and_pe/,16,1712081709.0,"There's an Indian FMCG firm named Tata Consumers, and an institutional broker has given the financial estimates for this firm for upcoming years. But there I can't correlate the EPS growth and PE ratio growth. Can you please help me with it?
+
+The data is
+
+
+
+|TATACONSUM|2024E|2025E|2026E|
+|:-|:-|:-|:-|
+|EPS|14.8|18.5|20.6|
+|PE|77.1|61.6|55.4|
+
+As I can infer from the data, does it mean that the earnings will rise but the stock will consolidate/fall?",2024-04-02 18:15:09,2024-04-02 18:15:09+00:00
+Apple Investors Seek Signs Worst Is Over After Quarterly Slump,139,1bu6bzt,https://www.reddit.com/r/wallstreetbets/comments/1bu6bzt/apple_investors_seek_signs_worst_is_over_after/,83,1712083012.0,"With Apple Inc.’s stock coming off its poorest quarterly performance relative to the S&P 500 Index in over a decade, traders are looking for signs that the worst may be over.
+
+The 12% drop since the start of the year paid off for short sellers, giving them an incentive to unwind their bets. Technical analysts say the stock is flirting with levels where dip-buyers are likely to swoop in. And the lagging run may make Apple look cheap compared with the other big tech companies.
+
+https://finance.yahoo.com/news/apple-flirts-support-levels-worst-100001839.html",2024-04-02 18:36:52,2024-04-02 18:36:52+00:00
+275k YOLO Tesla Puts,90,1bu6i37,https://www.reddit.com/r/wallstreetbets/comments/1bu6i37/275k_yolo_tesla_puts/,73,1712083395.0,"https://preview.redd.it/4ndzpk6034sc1.png?width=1295&format=png&auto=webp&s=242ec475e356c1c5e2495857a946f2ee682b34e0
+
+\*April 2nd Stats
+
+A few months ago I became convinced TSLA  was heading into the toilet not because of TSLA itself, but because I had been invested in the trainwreck dividend ETF TSLY. After my experience in TSLY, I knew TSLA   was doomed.
+
+Since the beginning of March I have thrown everything I have into TSLA puts. There have definitely been some ass-clenching nervous moments where I have been tens of thousands of dollars in the red, such as Jpow's rate cut announcement and Elon's cringey price hike stunt.
+
+But with the utterly horrid/wonderful Q1 delivery report, it seems I am finally seeing the light and my thesis that TSLA is an overvalued dogshit car company is finally being validated
+
+I have dabbled  with covered calls and cash secured puts before, but this is actually my very first pure put play, and a very big boy one at that.
+
+Looking for any any and all advice on how to proceed with this play.
+
+Ideally I think Id hold until what will be a guaranteed earnings disaster and sell the day after, but I am worried about IV Crush, theta decay, etc.
+
+Any thoughts, input, advice is welcome.",2024-04-02 18:43:15,2024-04-02 18:43:15+00:00
+275k YOLO Tesla Puts,481,1bu6i37,https://www.reddit.com/r/wallstreetbets/comments/1bu6i37/275k_yolo_tesla_puts/,238,1712083395.0,"https://preview.redd.it/4ndzpk6034sc1.png?width=1295&format=png&auto=webp&s=242ec475e356c1c5e2495857a946f2ee682b34e0
+
+\*\*\*\*April 2nd Stats. There also seems to be a bit of confusion from a few of the comments. I am only up 18k as of now. Gain/Loss is equal to Total Profit/Loss on Schwab.\*\*\*\*
+
+A few months ago I became convinced TSLA  was heading into the toilet not because of TSLA itself, but because I had been invested in the trainwreck dividend ETF TSLY. After my experience in TSLY, I knew TSLA   was doomed.
+
+Since the beginning of March I have thrown everything I have into TSLA puts. There have definitely been some ass-clenching nervous moments where I have been tens of thousands of dollars in the red, such as Jpow's rate cut announcement and Elon's cringey price hike stunt.
+
+But with the utterly horrid/wonderful Q1 delivery report, it seems I am finally seeing the light and my thesis that TSLA is an overvalued dogshit car company is finally being validated
+
+I have dabbled  with covered calls and cash secured puts before, but this is actually my very first pure put play, and a very big boy one at that.
+
+Looking for any any and all advice on how to proceed with this play.
+
+Ideally I think Id hold until what will be a guaranteed earnings disaster and sell the day after, but I am worried about IV Crush, theta decay, etc.
+
+Any thoughts, input, advice is welcome.",2024-04-02 18:43:15,2024-04-02 18:43:15+00:00
+Loblaws boycott (L.tsx) ,9,1bu6j28,https://www.reddit.com/r/wallstreetbets/comments/1bu6j28/loblaws_boycott_ltsx/,6,1712083457.0,"Hey guys i know canadian markets are baby food for you guys but there is a subreddit called r/loblawsisoutofcontrol and thry are planning a boycott starting May. The subreddit has grown to 42k members and counting.
+
+Grocery industry margjns are already tight but these major grocery companies are making record profit. What do you guys think?
+Is this a short/put play worth keeping an eye on?",2024-04-02 18:44:17,2024-04-02 18:44:17+00:00
+CCL Carnival Cruise and cruise industry,26,1bu6zwr,https://www.reddit.com/r/wallstreetbets/comments/1bu6zwr/ccl_carnival_cruise_and_cruise_industry/,47,1712084518.0,"I'd just like to bring reality back into play. People are not stopping their vacations. People keep wanting more and are wanting to go on more vacations. This non sense about overall weakness is absolutely crazy. Sure their may not be rate drops but that does not play into going on a cruise. 
+
+&#x200B;
+
+Who has ever said ""well rates are high right now we better not go on vacation."" NO ONE EVER HAS EVER SAID THAT.
+
+Carnival is absolutly in a massive recovery paying debt off faster then anyone anticipated and packed to the gills with customers spending on board and higher for their tickets. This is 100% oversold and shorted.   Take it for what it is I'be been long for months and not selling anytime soon. See you in on the moon.",2024-04-02 19:01:58,2024-04-02 19:01:58+00:00
+I belong here,8,1bu71br,https://i.redd.it/96v0osfh64sc1.png,2,1712084608.0,,2024-04-02 19:03:28,2024-04-02 19:03:28+00:00
+Dow drops more than 400 points as Wall Street starts second quarter on a sour note,212,1bu74lx,https://www.reddit.com/r/wallstreetbets/comments/1bu74lx/dow_drops_more_than_400_points_as_wall_street/,55,1712084821.0,"The Dow Jones Industrial Average
+ fell for a second day, continuing Wall Street’s lackluster start to the quarter, as bond yields increased and traders lowered expectations that the Federal Reserve would cut interest rates in June.
+
+The 30-stock Dow dropped 425 points, or 1.1%. At its session low, the benchmark was down more than 500 points. The S&P 500
+ slid 0.9% and the Nasdaq Composite
+ shed 1.2%.
+
+https://www.cnbc.com/2024/04/01/stock-market-today-live-updates.html",2024-04-02 19:07:01,2024-04-02 19:07:01+00:00
+Went full regard only day 2,27,1bu7i4h,https://i.redd.it/6dj3paus94sc1.jpeg,31,1712085700.0,Is there hope? 🤔 ,2024-04-02 19:21:40,2024-04-02 19:21:40+00:00
+What are the benefits of having non-growth stocks that do not pay dividends?,0,1bu7ls2,https://www.reddit.com/r/wallstreetbets/comments/1bu7ls2/what_are_the_benefits_of_having_nongrowth_stocks/,53,1712085943.0,"It seems like the meta in stocks/investing is Stocks that are ripe for growth & pay dividends.
+
+Therefore it's an absolute loss to invest in so-called ""Value"" stocks that do not pay dividends. [Value stocks that do pay dividends can always stop that approach, so it's pretty tricky there; with growth stocks at least you have the ""Growth"" as a backup if they stop paying dividends]
+
+Here I define value stocks as stocks associated with a stable and economically strong company (market share, profit, available funds ...) . Those stocks that, ""sell themselves"" because they represent a stable and valuable company. The thought process that recommends value stocks goes like this: while you may be overpaying for these ""Value"" stocks at the very least the company is not likely to go bankrupt and there is always the possibility of Growth. So you're at least buying something that is very unlikely to depreciate to zero.
+
+I take issue with that, particularly with those value stocks that do not pay dividends. Because you miss out on the dividends and the opportunity cost associated with growth stocks.",2024-04-02 19:25:43,2024-04-02 19:25:43+00:00
+Purest form of AI ; Why PLTR will outperform in 10 years of Ai waves. American exceptionalism and what I now call  American Ai-hegemony,2,1bu7qvj,https://www.reddit.com/r/wallstreetbets/comments/1bu7qvj/purest_form_of_ai_why_pltr_will_outperform_in_10/,13,1712086268.0,"Palantir will make a new generation of wealthy individuals. 
+
+Bias Disclaimer: I owned 740 shares at 12.50 and sold 1/3 at 25$ . 
+
+Options is pure risk, we can all agree . May earnings are likely to take this stock to new levels. 
+
+If you have a moment and aren’t offended by American hegemony, please let me explain. Because this will trigger people. 
+
+*”For we must consider that we shall be as a city upon a hill. The eyes of all people are upon us”*- John Winthrop 1630 first governor of Massachusetts not so long after the mayflower arrived to the new world *
+
+Why do these words matter to PLTR ?   
+
+Well,  I’ll ask this, how much will the west spend to preserve democracy for an Empire that some critics say is nearing its peak ?  This should tell you where pltr is heading. 
+
+This stock maybe  a political moral and  social experiment. The entire empire is founded on American exceptionalism. What is the price tag  to keep the empire  at its peak  and to continue its rise ? The cheque is blank, because otherwise the fall of an empire is next, this is what it means for Peter Thiel ;  a monopoly. The data is in palantir’s hands and the future of American hegemony is dependent on the competitive field of AI. From its military industrial complex to its health and economic  infrastructure, domestically and nato allied proxies. Palantir is not only the future, it is in the future.
+
+Here’s a thought; 
+
+It matter not what president or what party, as the famous words  from the first governor of massauchestte, John Winthrop,  still rings true today. *a city upon a hill*
+
+A question for us all ; what is the alternative to an American Empire? Could it be that the lack of better alternative  is real ? Remember I am asking for PROVEN alternative,  Socialism ? Communism ? Fascism !? These systems have proven to cost hundreds of millions of lives and all have failed.  Do you have another system sir/m’am ? What makes you believe that your unproven system is morally superior ? You hold the torch of moral value ? No, the only thing that has stood the test of time while creating the most ridiculous gains in human advancement from Industrial Revolution, technological insanity  Is democracy  and the western world. Believe me I know it is not perfect and far from innocent.
+
+I will not pretend I know much about financial statement and stock valuation,  with insignificant debt, it’s revenue guidance and profitability continuum, the only question I ask myself is, *will Palantir acquire a monopoly ?* Is Peter Thiel and Alex Karl correct ? A digital Intelligence so advanced that there is simply no competition ?  What if the Western World’s survival  *although not perfect*, depend. on it ?
+
+
+Quick fact sheet ; 
+
+- palantir does not own data ( privacy fulfilled )
+- GAAP : 
+-February and has since reported four consecutive GAAP profitable quarters. 
+
+REMEMBER. ; this is something they had promised much earlier - once again promise kept . 
+
+
+Watch for this number next : 
+
+retention rates- last was about 107%. Good but likely will do better in 2024 as AI interest is nowhere near peak .
+
+quarter after quarter beat since inception 
+0 debt - big fat 0 insignificant debt 
+cash equivalents, and short-term US treasury securities of $3.7 billion
+
+Boot camps turning into a snowball effect 
+
+AI second wave of a 10 year wave is impending 
+
+following this current small tinny correction as N
+NVDIA. Is surely going to reach over 1000$ 
+Elections - data - data - data 
+Wars continuous - you will to the growing tension  around the world No such thing as decrease.  
+
+
+Terrorist threats have increased - this is normal following Israel’s  stance , now Moscow , etc . 
+
+they have delivered on time , as promised . 
+
+
+ **For full year 2024 guidance**
+
+Revenue of between $2.652 - $2.668 billion.
+
+US commercial revenue in excess of $640 million, representing a growth rate of at least 40%.
+
+Adjusted income from operations of $834 - $850 million.
+
+Adjusted free cash flow of $800 million - $1 billion.
+
+GAAP operating income in each quarter of this year.
+
+GAAP net income in each quarter of this year.",2024-04-02 19:31:08,2024-04-02 19:31:08+00:00
+What is this obtuse Vega?!,5,1bu7wsi,https://i.redd.it/rj848xbnc4sc1.jpeg,7,1712086657.0,Bruh. 6:30am.,2024-04-02 19:37:37,2024-04-02 19:37:37+00:00
+No one talking about CAG? ,4,1bu7yke,https://www.reddit.com/r/wallstreetbets/comments/1bu7yke/no_one_talking_about_cag/,7,1712086775.0,"Currently under class action lawsuit for misleading consumers, judge recently ruled the  investigation can proceed AND their earnings will surely be dismal… 
+
+CONAGRA INVESTIGATION INITIATED by Former Louisiana Attorney General: Kahn Swick & Foti, LLC Investigates the Officers and Directors of ConAgra Brands, Inc. - CAG https://www.businesswire.com/news/home/20240329927369/en/
+
+Worth rolling the dice I think - $29.50p 4/5 $0.40 
+
+What am I missing? ",2024-04-02 19:39:35,2024-04-02 19:39:35+00:00
+"TSM Earnings play, gone full regard (update)",50,1bu89uf,https://www.reddit.com/gallery/1bu89uf,53,1712087493.0,"Hello fellow regards
+
+To see my previous post about my TSM YOLO, check the following link: https://www.reddit.com/r/wallstreetbets/s/0t9kViIxQo
+
+Given TSM's monthly earnings next week and their quarterly earnings on the 18th, I expect the stock to go higher and print me some tendies. TSM has been consolidating for a month now and it would have prolly scared a lot of paper hands but me, I have 💎 hands all over here👐. I did roll over some 200/220c into lower SP calls as they were bleeding everyday, but apart from that I have only added to my position so far. Hoping for the stock to end the week on 150, with a good rise next week due to great monthly ER following an uptrend onto the quarterly ER on 18th, from where I hope it will skyrocket into the 180s. What are your thoughts? Will these calls print? Will it be lambo or wendy's?",2024-04-02 19:51:33,2024-04-02 19:51:33+00:00
+"When I buy calls, they go down, and I just want to break even",1,1bu8g3k,https://v.redd.it/7rn7y5lcg4sc1,0,1712087902.0,,2024-04-02 19:58:22,2024-04-02 19:58:22+00:00
+"What Are Your Moves Tomorrow, April 3, 2024",562,1bu8hx6,https://www.reddit.com/r/wallstreetbets/comments/1bu8hx6/what_are_your_moves_tomorrow_april_3_2024/,6865,1712088017.0,[View Post](https://www.reddit.com/r/wallstreetbets/post-viewer/1bu8hx6),2024-04-02 20:00:17,2024-04-02 20:00:17+00:00
+QQQ 57% on a slow day... i said it in my profile post this morning... low risk/high reward on CALLS. Congrats!,9,1bu8rrm,https://www.reddit.com/gallery/1bu8rrm,9,1712088645.0,,2024-04-02 20:10:45,2024-04-02 20:10:45+00:00
+Weed Stocks 🚀 🌙 ?,1,1bu93i7,https://www.reddit.com/r/wallstreetbets/comments/1bu93i7/weed_stocks/,4,1712089400.0,,2024-04-02 20:23:20,2024-04-02 20:23:20+00:00
+"You want a Porsche GT3 RS. You currently have $10,000. Where you puttin it?",4,1bu956h,https://www.reddit.com/r/wallstreetbets/comments/1bu956h/you_want_a_porsche_gt3_rs_you_currently_have/,33,1712089513.0,,2024-04-02 20:25:13,2024-04-02 20:25:13+00:00
+"$150,000 SPY YOLO",1214,1bu963c,https://i.redd.it/qx4ex8lbl4sc1.jpeg,1019,1712089575.0,Let's hope for a nice rebound tomorrow! ,2024-04-02 20:26:15,2024-04-02 20:26:15+00:00
+Is $DKS going limp?,9,1bu980w,https://www.reddit.com/gallery/1bu980w,9,1712089710.0,Something doesn’t make sense here. Someone is betting big against Dicks Sporting Goods…,2024-04-02 20:28:30,2024-04-02 20:28:30+00:00
+Loosing it all,48,1bu9u4j,https://i.redd.it/jpfbttqor4sc1.jpeg,49,1712091716.0,"I am just loosing money after a win streak for 3 Month been loosing for over two month almost 20K
+Is it only me ? Or the hr Market is really not helping 
+Note: I only trade S&P ETF
+
+Basically all my trades start right and then goes wrong. What is the safest method or strategy?",2024-04-02 21:01:56,2024-04-02 21:01:56+00:00
+Trump Sues Truth Social Company Co-Founders to Zero Them Out,3624,1bu9vkc,https://news.bloomberglaw.com/litigation/trump-sues-co-founders-of-truth-social-media-company-over-shares,523,1712091815.0,,2024-04-02 21:03:35,2024-04-02 21:03:35+00:00
+Trump Sues Truth Social Company Co-Founders to Zero Them Out,67,1bu9vkc,https://news.bloomberglaw.com/litigation/trump-sues-co-founders-of-truth-social-media-company-over-shares,17,1712091815.0,,2024-04-02 21:03:35,2024-04-02 21:03:35+00:00
+$INTC as serious AI inference play,35,1bu9xzl,https://www.reddit.com/r/wallstreetbets/comments/1bu9xzl/intc_as_serious_ai_inference_play/,49,1712091980.0,"I keep reading posts about Intel and consumer CPU's or GPU's. It is relatively insignificant if they sell some shitty GPU's for a new xbox. The real money is in datacenters and AI, specifically AI accelerators and inference chips for training / running models quickly. Nvidia has been the king with their monopoly-like features (optimisation, their ecosystem, CUDA, etc..), but Intel is making some serious moves. 
+
+In the latest MLPerf benchmark from just a few days ago, which tests AI chips on tasks like object detection and large language models, Intel's Gaudi 2 is showing impressive results. Not to get too technical, but even David Salvator, Nvidia director of accelerated computing products, acknowledged that Intel's chip is actually competitive \[1\]. While Nvidia remains on top, price / performance wise Gaudi 2 beat them in Stable Diffusion and was close in the large language model. (Yes this is only inference - so does not reflect training, but this still shows potential). Intel said Gaudi 2 delivered a massive 1.42x jump in performance compared to their previous gen in just one year.
+
+The generative AI market is estimated to hit $1.3 trillion by 2032, and we're in a unique position to guess who will be selling the shovels. As a bonus: Intel will be hugely susceptible to being hyped up during an AI bubble.
+
+Besides all this, we know that the Biden admin just announced Intel is getting up to $8.5B in direct funding under the CHIPS Act, along with a 25% tax credit on over $100B in investments and eligibility for $11B in federal loans.
+
+Intel could be a hedge against Nvidia, as they rely on TSMC. If geopolitical shit hits the fan, it could affect TSMC, which would impact Nvidia, AMD, Apple, and many others leaving intel as the only serious option.
+
+**TLDR**: Intel's AI Chip is no Nvidia killer yet, but Intel's making solid progress. $INTC could be an interesting AI play. Pie is big enough.
+
+\[1\] [https://www.hpcwire.com/2024/03/28/mlperf-inference-4-0-results-showcase-genai-nvidia-still-dominates/](https://www.hpcwire.com/2024/03/28/mlperf-inference-4-0-results-showcase-genai-nvidia-still-dominates/)",2024-04-02 21:06:20,2024-04-02 21:06:20+00:00
+Squeaked out a W: +25%(8k) on SPY puts,20,1bua2zf,https://www.reddit.com/gallery/1bua2zf,4,1712092315.0,"They aren’t all as fantastical as my TSLA puts but I’ll take wins of any size. Happy to live and fight another day. 
+
+Bought SPY puts on 3/27 at the start of the day. Seemed doomed for sure and I thought about cutting my losses but stayed in specifically hoping TSLA and general sentiment would tank the market today, got lucky. 
+
+Sold early and decided to see how the day went. Almost filled on 519p for Friday at the end of day but they didn’t reach my limit.",2024-04-02 21:11:55,2024-04-02 21:11:55+00:00
+Intel discloses $7 billion operating loss for chip-making unit.,6186,1bua86x,https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/,579,1712092659.0,,2024-04-02 21:17:39,2024-04-02 21:17:39+00:00
+Intel discloses $7 billion operating loss for chip-making unit.,51,1bua86x,https://www.reuters.com/technology/intel-discloses-financials-foundry-business-2024-04-02/,24,1712092659.0,,2024-04-02 21:17:39,2024-04-02 21:17:39+00:00
+30x DJT 45P expiring Friday. Awaiting Biden’s executive order to save me.,28,1bua9yw,https://i.redd.it/tqi636muu4sc1.jpeg,33,1712092779.0,"Down 1k at close cause I kept buying more throughout the day as I was getting smoked. Ended up with 30 contracts.
+
+Need 🥭 to get back on X. 
+
+Need 🥭 to dump all shares. 
+
+Need 💤 to interfere in the public markets with an executive order making owning DJT illegal. 
+
+Oh and need it all by Friday. ",2024-04-02 21:19:39,2024-04-02 21:19:39+00:00
+"One single META LEAP bought near the absolute bottom in late 2022. Best single option I ever bought, sold today. Helped keep my spirits up. ",166,1buareb,https://i.redd.it/n5n7ck2ay4sc1.jpeg,34,1712093932.0,,2024-04-02 21:38:52,2024-04-02 21:38:52+00:00
+"One single META LEAP bought near the absolute bottom in late 2022. Best single option I ever bought, sold today. Helped keep my spirits up. ",6,1buareb,https://i.redd.it/n5n7ck2ay4sc1.jpeg,2,1712093932.0,,2024-04-02 21:38:52,2024-04-02 21:38:52+00:00
+I BELONG HERE BOYS!!!,35,1buaxzc,https://www.reddit.com/gallery/1buaxzc,20,1712094384.0,"2020- Went all in on calls in one stock. Turned $10k into $75k at its peak then rode it back down to $0. This was my life savings at the time... I decided to give up trading.... So I thought ?
+
+2024- After 3 years of hard work I managed to save up $26k... dropped it all on shares of one 
+stock ... company got delisted and is going bankrupt in the coming days ....
+
+Took years of hard work and a loss of $35k to realize trading is not for me. VOO and chill it is.
+
+I will NOT be back… or maybe third time is the charm ? lol jk…
+
+P.S: I can’t name the stocks because they have a market cap of less than 500 million so mods won’t let me.",2024-04-02 21:46:24,2024-04-02 21:46:24+00:00
+Are any of you taking trading seriously?,0,1bub01z,https://www.reddit.com/r/wallstreetbets/comments/1bub01z/are_any_of_you_taking_trading_seriously/,9,1712094530.0,"Are any of you taking trading seriously? Or just all here for the LOLz. I am a professional trader of 7 years and looking to build out my network to a few traders who have been on these message boards for the last few years to pick your brain a bit. If interested, follow my page, send me a direct message and we can start the chat. I also have a page called r / overnightmomo that you can type in and follow! I am sharing my overnight/after hours strategies on it. Cheers!",2024-04-02 21:48:50,2024-04-02 21:48:50+00:00
+YOLO,0,1bub430,https://i.redd.it/6q4g98ov05sc1.jpeg,4,1712094806.0,,2024-04-02 21:53:26,2024-04-02 21:53:26+00:00
+R/wallstreetbets CVNA stock,2,1bub4m8,https://www.reddit.com/r/wallstreetbets/comments/1bub4m8/rwallstreetbets_cvna_stock/,1,1712094845.0,My puts are $100 for May 2024 and I love leaps so I am in $105 puts for Jan 2026.  I don’t see this company surviving a downturn.  It’s debt heavy and the car market is a low margin business.  My personal take is that the stock is manipulated.  It’s had too many knee jerk movements and the volume seems low for such a volatile stock.  Anywho. I am thinking this stock is worth $10 on a good day.  Had had a strong run just based on emotion and will find itself in a deep ditch soon.  I don’t see how it stays trading above its current price.  Reminds me of an old pump and dump company called Molycorp.,2024-04-02 21:54:05,2024-04-02 21:54:05+00:00
+Forbes reveals who fell of the 2024 Rich List,1,1bub80t,https://www.forbes.com.au/news/billionaires/forbes-rich-list-2024-heres-who-fell-off-the-list/,1,1712095080.0,,2024-04-02 21:58:00,2024-04-02 21:58:00+00:00
+It feels like it happened only last week,570,1bubccv,https://i.redd.it/5w0oob3i25sc1.png,22,1712095357.0,,2024-04-02 22:02:37,2024-04-02 22:02:37+00:00
+It feels like it happened only last week,24,1bubccv,https://i.redd.it/5w0oob3i25sc1.png,3,1712095357.0,,2024-04-02 22:02:37,2024-04-02 22:02:37+00:00
+Stopped investing for a bit because I’m regarded. Came back with $600 in Jan and hoping to get back into overall green soon.,10,1bubd4b,https://www.reddit.com/gallery/1bubd4b,6,1712095409.0,,2024-04-02 22:03:29,2024-04-02 22:03:29+00:00
+Thoughts ?? 💭,11,1bublrg,https://i.redd.it/dvtbtmde45sc1.jpeg,14,1712095990.0,🤷🏻‍♂️,2024-04-02 22:13:10,2024-04-02 22:13:10+00:00
+The GUH of GUHs - Balls deep in the Mouse $DIS,151,1bubxx3,https://i.redd.it/kqtjif5u65sc1.jpeg,124,1712096810.0,"That’s right, I’m all in - all 2 inches, to the hilt - in the Mouse. Yes, they make gay movies and have turned their theme parks into open air hospice centers for fat land whale Americans who shell out a year’s salary and stand in line for a day to watch their children get hugged by a trans sleeping beauty. So why am I risking it all, my present and future, on way otm calls with zero chance of hitting green? Because I’m retarted. This is my crucible, my GUH. Off to the moon or a padded cell. Buy calls so I can be an asstronaut and not in an asylum.
+
+(But you should actually buy puts, see my username)
+
+To Valhalla 
+
+Will update
+
+",2024-04-02 22:26:50,2024-04-02 22:26:50+00:00
+NDX Yolo. Risked 27k to make 3k on put credit spread.,1,1bubzg5,https://i.redd.it/0qe1233575sc1.jpeg,3,1712096912.0,,2024-04-02 22:28:32,2024-04-02 22:28:32+00:00
+Come back story? I think so. ,19,1buca8d,https://www.reddit.com/r/wallstreetbets/comments/1buca8d/come_back_story_i_think_so/,25,1712097651.0,"Listen I know some of you have been burned by this company in the past, even institutions but most importantly the people.  I'm not here to pump my shit and leave, I truly believe in this new team, new outlook and their new business model. It's sending waves in the clean energy space. 
+
+https://www.powerprogress.com/news/imc-logistics-acquires-50-nikola-fuel-cell-trucks/8035803.article
+
+The world is acting up lately and mankind is trying to fix it's act so we don't kill ourselves with carbon emissions. 
+
+The US government approved funding to create the hydrogen infrastructure to supply trucks across the US. And guess who's leading in that space? Because they're actually doing both building trucks, (and it's selling) and creating their own infrastructure Nikola... NKLA
+
+https://www.electrive.com/2024/03/13/us-government-presents-h2-refuelling-and-charging-roadmap-for-zero-emission-trucks/
+
+Listen, Tesla is all cool, batteries are cool but not the solution mankind needs.  Heavy mining is required to get those metals out and into cars. This option is still very toxic to the air.
+
+https://www.mining-technology.com/analyst-comment/lithium-mining-negative-environmental-impact/#:~:text=Sulfuric%20acid%20and%20sodium%20hydroxide,threatened%20because%20of%20lithium%20mining.
+
+I plan to hold this for years, because I believe hydrogen is the next multi trillion dollar industry and these guys are leading in that space. First mover (Since the whole world is moving into better alternatives) 
+
+Also... hydrogen preforms better than batteries. Don't you realize your phone died faster in the cold and degrades over time? Why do you think EVs dont hold value? Because of that. 
+
+Do you think trucker need that stress? When to recharge it takes over an hr to 2hrs. For 300 mile range on a battery.
+While hydrogen takes 20mins and has 500 mile range. Which would you pick as a trucker? 
+
+https://www.nikolamotor.com/successful-launch-nikola-produces-42-wholesales-35-hydrogen-fuel-cell-electric-trucks-for-customers-in-u-s-and-canada-in-2023/
+
+If you still think this is bs... Why do you think Toyota currently in the r&d space for hydrogen trucks? 
+
+https://www.toyota.com/usa/environmentalsustainability/carbon/zero-emissions-trucking
+
+Even if you don't like this stock, look into hydrogen ETFs. Great exposure to the future of clean energy and a healthier for the planet overall. 
+
+I like this stock 
+
+Not financial advice.",2024-04-02 22:40:51,2024-04-02 22:40:51+00:00
+DJT to the Moon - Cup & Handle,1,1bucddj,https://i.redd.it/i6w1r4gz95sc1.jpeg,6,1712097870.0,,2024-04-02 22:44:30,2024-04-02 22:44:30+00:00
+This is a 500x bagger - Deep dive and update on the $RILY situation,204,1bucfq1,https://www.reddit.com/r/wallstreetbets/comments/1bucfq1/this_is_a_500x_bagger_deep_dive_and_update_on_the/,132,1712098035.0,"I just like the stock  🚀 
+
+Right, after reading a tonne of posts, including a [17k YOLO](https://www.reddit.com/r/wallstreetbets/comments/1bt4h5p/rily_b_riley_financial_17k_calls_yolo/) on $RILY I put my ape brain to work on a very deep dive. OP’s DD was terrible, but he was right – I think this is the biggest trading opportunity of the year.
+
+# Overview
+
+* Deeply undervalued ($22 vs $80 fair value)
+* Late SEC filing due before 29th April -> major catalyst for swift upwards move
+* Negative sentiment is WRONG (see below)
+* 230% short interest (freely traded shares, 74% of outstanding)
+* CEO is angry at sellers and has $240 million of cash for potential buybacks
+* Insider purchases 300% higher than sales
+* Rapidly increasing [support among retail investors](https://www.reddit.com/r/RILYStock/)
+
+&#x200B;
+
+# Negative sentiment is overblown
+
+The [negative sentiment around B Riley Financial](https://news.bloomberglaw.com/litigation/b-riley-allegedly-hid-ex-franchise-group-ceos-pre-buyout-fraud) is explained as 'knowledge of or involvement in fraudulent dealings'. That being said, I have not found a single shred of evidence anywhere, yet somehow there are some very vocal negative sellers of the stock on twitter.
+
+A [full internal audit](https://www.prnewswire.com/news-releases/b-riley-financial-board-of-directors-issues-statement-regarding-internal-review-302068456.html) of B Riley Financial by Sullivan & Cromwell LLP found no liability nor evidence of wrongdoing. This is the full extent to which the company will be investigated as things stand. Unless a world-leading auditor and legal firm has messed up big time, then B Riley Financial is innocent.
+
+With some digging around, I managed to unravel the 'network' linking B Riley Financial to the fraud case. The link is that B Riley financed and invested alongside an individual called Brian Kahn:
+
+* From 2021 to 2023, Riley purchased $925 million of receivables from Kahn. This has all since been received in cash, hence zero liability.
+* Riley invested circa $200million dollars into Kahn’s company Franchise Group (FRG) in May 2023 during a takeout deal. Pre-takeout public filings from less than 10 months ago show FRG to have a very [strong holdings and balance sheet](https://fintel.io/bs/us/frg). FRG is not under scrutiny for any wrongdoings and had positive net assets of $400million before the takeout deal 9 months ago.
+
+ Brian Kahn worked at a company called ‘Prophecy’, which was recently [charged with incorrect management of investor funds](https://www.straitstimes.com/business/prophecy-fund-co-founder-pleads-guilty-to-401-million-fraud). However, Brian Kahn has not been charged with anything. It is the CEO of Prophecy, John Hughes who is being charged. Additionally, this fraud took place between 2015 to 2020,  long before Riley Financial became involved with Kahn through their takeout deal of Franchise Group. The worst case scenario is that Kahn has to pay a [$70 million dollar kickback](https://www.investmentnews.com/broker-dealers/news/b-riley-client-misses-payment-to-investors-in-collapsed-fund-250027).
+
+Therefore, B Riley Financial is distinct from the alleged fraud by 4 degrees of separation:
+
+Riley Financial -> FRG -> Brian Kahn -> Prophecy -> John Hughes (guilty)
+
+&#x200B;
+
+# Greedy short sellers overleveraged
+
+As mentioned 240% of the openly traded shares are being sold, or 12.4 million out of 5 million (240%). Furthermore, more than half of these were opened below the $25 mark. A push to $30 would trigger a rapidly accelerating upward move as funds are forced to buy shares to hedge losses.
+
+**Marc Cohodes** has been straining to drive this thing into the ground, bombarding the stock relentlessly on Twitter with his buddies. It is clear that he is abusing his reputation as a legendary shark seller to try to create a self-fulfilling prophecy. It is funny watching him get triggered by people talking about the stock on Reddit.
+
+B. Riley has [addressed the predatory behavior](https://ir.brileyfin.com/2024-02-22-B-Riley-Financial-Board-of-Directors-Issues-Statement-Regarding-Internal-Review) head on in a press release, condemning their tactics as an unethical attempt to destroy the business.
+
+Another bear Jonathan Weil (follows **Marc Cohodes** on twitter**)** used to work at Kinikos Associates - notorious short-selling hedge fund – and wrote a WSJ article covering the story. 
+
+&#x200B;
+
+https://preview.redd.it/i4rq1z4d35sc1.jpg?width=773&format=pjpg&auto=webp&s=ad81536a2084e129bdeda101c10af9f4e93229ef
+
+[Something seems off about this..](https://preview.redd.it/hown4rqe35sc1.jpg?width=1920&format=pjpg&auto=webp&s=dff72df3a8c5e1deb6514dda4ba28804cb6e19b1)
+
+[Notice any old friends in here?](https://preview.redd.it/ajallv2n35sc1.jpg?width=1596&format=pjpg&auto=webp&s=0f1c688111e2eaac7da01c408668953dde0e232e)
+
+  
+
+# Addressing the SEC filing
+
+Sharks have jumped on the idea that Riley Financial has missed their 10-K filing, which [the company addressed openly](https://www.sec.gov/Archives/edgar/data/1464790/000121390024018501/ea0200957-nt10k_brileyfin.htm) to the SEC. There are a few problems with the negative theory. Firstly, if we read the details of the SEC report we can see that the reason for this was simply the excess use of time and resources during the 9-week audit, which cleared with no findings of wrongdoing.
+
+Additionally, Riley filed [unaudited reports](https://ir.brileyfin.com/2024-02-29-B-Riley-Financial-Reports-Preliminary-Unaudited-Fourth-Quarter-and-Full-Year-2023-Results-Declares-Quarterly-Dividend-of-0-50-per-share) showing healthy financials. It is highly unusual for fraudulent companies to present false reports during mismanagement cases instead of waiting it out. This would be a criminal offence and carry additional charges of fraud and misleading investors. it is very likely that these early reports are accurate.
+
+Riley Financial's major debtor – Nomura – gave them a pass on the delayed filing and approved their dividend offering. It is VERY unlikely that Nomura (which has a backdoor to the companies books) would accept a dividend payment to be given if it was concerned about a default. This is a HUGE indicator that Riley Financial’s accounts are healthy and the delayed filing is simply an administrative problem.
+
+**B Riley Financial** has until the 29th April to submit their delayed filing, but could file any time before then. My theses is that once the SEC is in receipt of an confirms their filing, the stock price will reset to fair value very quickly.
+
+&#x200B;
+
+# What are the people with the most information doing?
+
+As mentioned previously, **Nomura** (Riley’s bank) allowed a dividend and signed off on an extension to their audit filing, indicating that they are confident in the financials.
+
+**Sullivan & Cromwell LLP** audited Riley and came back with no concerns. This is a highly prestigious law firm.
+
+**Strong insider trading.** In fact, over the past year 280% more shares have been purchased than sold by insiders (590’000 buys vs 165’000 sells). The last sale was nearly 5 months ago.  The last 3 months of insider trading are even more promising. Since the stock has started to tank, insiders have purchased 1500% more shares than they have sold.
+
+https://preview.redd.it/7bxrmjo095sc1.jpg?width=906&format=pjpg&auto=webp&s=745dbb29d3e7a98e1a0a7dad8a9d545375b2222d
+
+I'm not going to run a DD on their financials, as that is not what this post is about. I'm sure some of you regards can figure out how to do that. 
+
+&#x200B;
+
+# Target price and positions
+
+The fair price is around $60, 200% above current levels. A ramp in buying to hedge positions could cause a run up above $200.
+
+&#x200B;
+
+My positions are:
+
+* $RILY 800 shares @ 22.30 average
+* $RILY 200 x Apr’12 25Call
+* $RILY 100 x May’3 35Call
+
+&#x200B;
+
+Lig Deez Mr Cohodes  🚀 ",2024-04-02 22:47:15,2024-04-02 22:47:15+00:00
+"Ladies and gentlemen, it's go time!",3,1bucg0s,https://i.redd.it/fbdoutbja5sc1.png,4,1712098055.0,,2024-04-02 22:47:35,2024-04-02 22:47:35+00:00
+Sometimes being a bear works,2,1bucnc8,https://i.redd.it/s23tpgh2c5sc1.jpeg,2,1712098570.0,,2024-04-02 22:56:10,2024-04-02 22:56:10+00:00
+Suns Owner Under Heavy Fire After Leaked Voicemail,471,1bucuqj,https://www.reddit.com/r/wallstreetbets/comments/1bucuqj/suns_owner_under_heavy_fire_after_leaked_voicemail/,95,1712099093.0,"[https://www.si.com/nba/suns/phoenix-suns-owner-mat-ishbia-heavy-fire-voicemail](https://www.si.com/nba/suns/phoenix-suns-owner-mat-ishbia-heavy-fire-voicemail)
+
+Things getting spicy in the mortgage space.  $UWMC.  New short report by a new company that doesn't connect their ""journalism"" arm to their ""hedge fund"" arm until it goes through their own compliance so is it front-running idk...  I'm not so sure that voicemail couldn't have been from 497 out of 500 S&P500 CEOs tho.
+
+https://preview.redd.it/9adjf3ira5sc1.png?width=526&format=png&auto=webp&s=7d62488417126801c3f3cc63803d67c0b1284e53
+
+UWMC's response
+
+&#x200B;
+
+https://preview.redd.it/mg5whjmqb5sc1.png?width=589&format=png&auto=webp&s=145519bf488859a0123a67dd1d8b8ef351e329ec
+
+What say you all?",2024-04-02 23:04:53,2024-04-02 23:04:53+00:00
+“GEt ReADy For THe BuLL MArKET”,4,1budmad,https://i.redd.it/wakg8ny9j5sc1.jpeg,6,1712100994.0,,2024-04-02 23:36:34,2024-04-02 23:36:34+00:00
+Am i doomed guys ? Hoping for some rally before 4/16. $GES,5,1budpz4,https://i.redd.it/c25gmoy1k5sc1.jpeg,6,1712101255.0,,2024-04-02 23:40:55,2024-04-02 23:40:55+00:00
+Monkey brain sees pattern,3,1budrew,https://i.redd.it/01k5egnck5sc1.jpeg,2,1712101355.0,,2024-04-02 23:42:35,2024-04-02 23:42:35+00:00
+As Grim as Things are I Don't Think It's Tesla's Fault EV Sales are So Bad - We Just Can't Afford Any Major Purchases Right Now - Rate Cuts,0,1budwzt,https://www.reddit.com/r/wallstreetbets/comments/1budwzt/as_grim_as_things_are_i_dont_think_its_teslas/,2,1712101747.0,"Interest rates are wildly high. I purchased my car a few'ish years ago with a rate around 2%. I am not touching that thing until I know interest rates are in a better state. Like housing, nobody is going to sell their home to increase their monthly payment. 
+
+I don't know why the hell we think the economy is raging hot. If there is any froth left in the economy is the very fact that people got to lock into much lower rates. How much more contraction can we do on the middle class down? It's nutz if you ask me. 
+
+Right before our eyes we are turning into a banana republic because those who got into great rates aren't moving. This is a great recipe to lock in a banana type economy if you ask me. Those who don't have great locked in rates are getting higher rent prices and higher car interest rates. 
+
+So housing and auto is screwed in this market. Home builders and rate buy downers are going to win. Everyone and everything else is screwed. 
+
+Ford is offering Mach-E with a buydown and 0% rates and are moving product. DUH. 
+
+How hard is this for analyst to understanding? 
+
+If you're not B2B, AI (because it will replace labor), Energy, Home builders, some tera-form, Nvidia/Microsoft then you're not going to be making any money. Oh and bonds apparently. 
+
+It's way over time for rate cuts and probably more than 3 or this is going to turn out bad. Every earnings report is screwed x AI but every analyst keeps saying how hot inflation and the economy is. 
+
+I called for a 1% rate hike to just rip the band-aid off and was laughed at. Now, I'm calling for major cuts because it's getting bad out here in case anyone was wondering. 
+
+&#x200B;",2024-04-02 23:49:07,2024-04-02 23:49:07+00:00
+Whats going to happen with tsm,1,1bue4uc,https://www.reddit.com/r/wallstreetbets/comments/1bue4uc/whats_going_to_happen_with_tsm/,2,1712102316.0,,2024-04-02 23:58:36,2024-04-02 23:58:36+00:00

@@ -1,0 +1,23 @@
+# Python
+*.pyc
+pip-log.txt
+pip-delete-this-directory.txt
+.Python
+__pycache__/
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+## Local History for Visual Studio Code
+.history/
+
+## Built Visual Studio Code Extensions
+*.vsix
+
+# General
+.DS_Store

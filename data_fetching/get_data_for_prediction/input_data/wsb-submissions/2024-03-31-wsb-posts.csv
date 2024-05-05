@@ -1,0 +1,381 @@
+Title,Score,ID,URL,Comms_Num,Created,Body,Timestamp,Datetime
+"Bitcoin could soar to $150,000 this year, hedge fund manager Mark Yusko predicts",0,1brxqxp,https://www.cnbc.com/2024/03/30/hedge-fund-manager-mark-yusko-bitcoin-soaring-to-150000-this-year.html,32,1711846942.0,,2024-03-31 01:02:22,2024-03-31 01:02:22+00:00
+AI (Autistic intelligence),46,1bryf5i,https://i.redd.it/tn5uuhukpkrc1.jpeg,7,1711848869.0,,2024-03-31 01:34:29,2024-03-31 01:34:29+00:00
+Mother of whistleblower John Barnett holds Boeing responsible for his death,1,1bryvu1,https://www.wsws.org/en/articles/2024/03/29/zvbt-m29.html,1,1711850246.0,,2024-03-31 01:57:26,2024-03-31 01:57:26+00:00
+Snowflake selloff seems like a temporary accident,1,1brznws,https://www.reddit.com/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/,17,1711852608.0,"Daily queries growth of 63% and 131% Net Revenue Retention (NRR) at the low end of the (non AI) cycle show just how much they sandbagged guidance of 22%. Both lead to future revenue growth. For comparison, they just achieved 36% annual revenue growth with daily queries growth of 73% and 158% NRR as the cycle was trending down. Now the cycle is about to trend up. I'd be surprised if revenue growth is lower than 27% this year.
+
+The new CEO Sridhar Ramasway is better than Slootman in every way. Slootman was a has-been-MBA-suit cashing in on his cachet like John Chen at BlackBerry. Took extreme stock based comp for himself and kept selling shares nonstop, while not keeping up with industry competition. Tech expertise is essential for tech CEOs to lead their companies to a monopolistic outcome. Research on the economics of tires (Slootman), not so much.
+
+The company is about to become relevant in the AI space due to this change in leadership. And web services companies are probably the biggest long term beneficiaries of AI. They have better economics (network, scale, incremental capital requirements). The new CEO expects several new product launches this year and he delivered one [yesterday](https://www.snowflake.com/blog/unlock-insights-with-snowflake-data-clean-rooms/). That's impressive after a little over one month on the job.
+
+By now everyone knows the CEO bought $5m worth of shares as part of his compensation contract this week. However, what's actually more interesting is Mark D. McLaughlin bought $501k worth of stock above $165 this month without being required to do so as part of any agreement. He similarly added $300k early last year at a higher price. He's a director of Snowflake and Palo Alto Networks, and Chairman of Qualcomm. Definitely the kind of guy who has his finger on the pulse of the tech scene. So if he's buying more this year than last year at the same price, he is more confident in the company's future now.
+
+For all the programmers who argue that Snowflake is overpriced vs Redshift, Synapse, etc. and how it is far behind Databricks, please read:
+
+1. [This technical merit comparison on Snowflake vs Databricks](https://twitter.com/convequity/status/1773722517330653337?s=19/).
+2. [This comment about Snowflake vs Synapse](https://www.reddit.com/r/dataengineering/comments/11ybe2d/comment/jd78ksl/?utm_source=share&utm_medium=web2x&context=3/)
+3. [This comment from a couple years ago about how pros misused Snowflake and ended up spending too much](https://www.reddit.com/r/SQLServer/comments/ww2zbc/comment/ilk2aq7/?utm_source=share&utm_medium=web2x&context=3/). My guess is that part of the decline in Net Revenue Retention and Revenue growth rates are partially due to this factor - people optimizing their use of the product for its true intent.
+4. Redshift is a dumpster fire according to many sources. [Like this.](https://www.reddit.com/r/dataengineering/comments/12mw1yy/redshift_vs_snowflake//)
+
+These factors mean Snowflake growth will start to reaccelerate this year. The non-AI tech cycle is about to reaccelerate naturally. Snowflake is about to become more product innovation oriented. That  product innovation will turn its sails to catch the AI wind. They were misunderstood by customers and experienced less rapid growth as a result of those customers figuring out how to use the service more effectively. The changes the company made to better compete with Databricks are effective whereas Databricks' attempt to copy Snowflake are nascent in comparison. As more people begin to understand this setup, Snowflake will go back over $400 by next year. Therefore, Snowflake selloff seems like it is a temporary accident.
+
+Position: 142 x $165c 4/19 exp (check profile for proof post).",2024-03-31 02:36:48,2024-03-31 02:36:48+00:00
+Snowflake selloff seems like a temporary accident,370,1brznws,https://www.reddit.com/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/,154,1711852608.0,"Daily queries growth of 63% and 131% Net Revenue Retention (NRR) at the low end of the (non AI) cycle show just how much they sandbagged guidance of 22%. Both lead to future revenue growth. For comparison, they just achieved 36% annual revenue growth with daily queries growth of 73% and 158% NRR as the cycle was trending down. Now the cycle is about to trend up. I'd be surprised if revenue growth is lower than 27% this year.
+
+The new CEO Sridhar Ramasway is better than Slootman in every way. Slootman was a has-been-MBA-suit cashing in on his cachet like John Chen at BlackBerry. Took extreme stock based comp for himself and kept selling shares nonstop, while not keeping up with industry competition. Tech expertise is essential for tech CEOs to lead their companies to a monopolistic outcome. Research on the economics of tires (Slootman), not so much.
+
+The company is about to become relevant in the AI space due to this change in leadership. And web services companies are probably the biggest long term beneficiaries of AI. They have better economics (network, scale, incremental capital requirements). The new CEO expects several new product launches this year and he delivered one [yesterday](https://www.snowflake.com/blog/unlock-insights-with-snowflake-data-clean-rooms/). That's impressive after a little over one month on the job.
+
+By now everyone knows the CEO bought $5m worth of shares as part of his compensation contract this week. However, what's actually more interesting is Mark D. McLaughlin bought $501k worth of stock above $165 this month without being required to do so as part of any agreement. He similarly added $300k early last year at a higher price. He's a director of Snowflake and Palo Alto Networks, and Chairman of Qualcomm. Definitely the kind of guy who has his finger on the pulse of the tech scene. So if he's buying more this year than last year at the same price, he is more confident in the company's future now.
+
+For all the programmers who argue that Snowflake is overpriced vs Redshift, Synapse, etc. and how it is far behind Databricks, please read:
+
+1. [This technical merit comparison on Snowflake vs Databricks](https://twitter.com/convequity/status/1773722517330653337?s=19/).
+2. [This comment about Snowflake vs Synapse](https://www.reddit.com/r/dataengineering/comments/11ybe2d/comment/jd78ksl/?utm_source=share&utm_medium=web2x&context=3/)
+3. [This comment from a couple years ago about how pros misused Snowflake and ended up spending too much](https://www.reddit.com/r/SQLServer/comments/ww2zbc/comment/ilk2aq7/?utm_source=share&utm_medium=web2x&context=3/). My guess is that part of the decline in Net Revenue Retention and Revenue growth rates are partially due to this factor - people optimizing their use of the product for its true intent.
+4. Redshift is a dumpster fire according to many sources. [Like this.](https://www.reddit.com/r/dataengineering/comments/12mw1yy/redshift_vs_snowflake//)
+
+These factors mean Snowflake growth will start to reaccelerate this year. The non-AI tech cycle is about to reaccelerate naturally. Snowflake is about to become more product innovation oriented. That  product innovation will turn its sails to catch the AI wind. They were misunderstood by customers. So they experienced less rapid growth as a result of those customers figuring out how to use the service more effectively. The changes the company made to better compete with Databricks are effective whereas Databricks' attempt to copy Snowflake are nascent in comparison. As more people begin to understand this setup, Snowflake will go back over $400 by next year. Therefore, Snowflake selloff seems like it is a temporary accident.
+
+Position: 142 x $165c 4/19 exp (check profile for proof post).",2024-03-31 02:36:48,2024-03-31 02:36:48+00:00
+Snowflake selloff seems like a temporary accident,369,1brznws,https://www.reddit.com/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/,154,1711852608.0,"Daily queries growth of 63% and 131% Net Revenue Retention (NRR) at the low end of the (non AI) cycle show just how much they sandbagged guidance of 22%. Both lead to future revenue growth. For comparison, they just achieved 36% annual revenue growth with daily queries growth of 73% and 158% NRR as the cycle was trending down. Now the cycle is about to trend up. I'd be surprised if revenue growth is lower than 27% this year.
+
+The new CEO Sridhar Ramasway is better than Slootman in every way. Slootman was a has-been-MBA-suit cashing in on his cachet like John Chen at BlackBerry. Took extreme stock based comp for himself and kept selling shares nonstop, while not keeping up with industry competition. Tech expertise is essential for tech CEOs to lead their companies to a monopolistic outcome. Research on the economics of tires (Slootman), not so much.
+
+The company is about to become relevant in the AI space due to this change in leadership. And web services companies are probably the biggest long term beneficiaries of AI. They have better economics (network, scale, incremental capital requirements). The new CEO expects several new product launches this year and he delivered one [yesterday](https://www.snowflake.com/blog/unlock-insights-with-snowflake-data-clean-rooms/). That's impressive after a little over one month on the job.
+
+By now everyone knows the CEO bought $5m worth of shares as part of his compensation contract this week. However, what's actually more interesting is Mark D. McLaughlin bought $501k worth of stock above $165 this month without being required to do so as part of any agreement. He similarly added $300k early last year at a higher price. He's a director of Snowflake and Palo Alto Networks, and Chairman of Qualcomm. Definitely the kind of guy who has his finger on the pulse of the tech scene. So if he's buying more this year than last year at the same price, he is more confident in the company's future now.
+
+For all the programmers who argue that Snowflake is overpriced vs Redshift, Synapse, etc. and how it is far behind Databricks, please read:
+
+1. [This technical merit comparison on Snowflake vs Databricks](https://twitter.com/convequity/status/1773722517330653337?s=19/).
+2. [This comment about Snowflake vs Synapse](https://www.reddit.com/r/dataengineering/comments/11ybe2d/comment/jd78ksl/?utm_source=share&utm_medium=web2x&context=3/)
+3. [This comment from a couple years ago about how pros misused Snowflake and ended up spending too much](https://www.reddit.com/r/SQLServer/comments/ww2zbc/comment/ilk2aq7/?utm_source=share&utm_medium=web2x&context=3/). My guess is that part of the decline in Net Revenue Retention and Revenue growth rates are partially due to this factor - people optimizing their use of the product for its true intent.
+4. Redshift is a dumpster fire according to many sources. [Like this.](https://www.reddit.com/r/dataengineering/comments/12mw1yy/redshift_vs_snowflake//)
+
+These factors mean Snowflake growth will start to reaccelerate this year. The non-AI tech cycle is about to reaccelerate naturally. Snowflake is about to become more product innovation oriented. That  product innovation will turn its sails to catch the AI wind. They were misunderstood by customers. So they experienced less rapid growth as a result of those customers figuring out how to use the service more effectively. The changes the company made to better compete with Databricks are effective whereas Databricks' attempt to copy Snowflake are nascent in comparison. As more people begin to understand this setup, Snowflake will go back over $400 by next year. Therefore, Snowflake selloff seems like it is a temporary accident.
+
+Position: 142 x $165c 4/19 exp (check profile for proof post).
+
+Edit: I also found this update on the AI work at $snow from one of its top engineers:
+https://twitter.com/rajhans_samdani/status/1770903641630863646?s=19
+
+Impressive stuff.",2024-03-31 02:36:48,2024-03-31 02:36:48+00:00
+Snowflake selloff seems like a temporary accident,367,1brznws,https://www.reddit.com/r/wallstreetbets/comments/1brznws/snowflake_selloff_seems_like_a_temporary_accident/,154,1711852608.0,"Daily queries growth of 63% and 131% Net Revenue Retention (NRR) at the low end of the (non AI) cycle show just how much they sandbagged guidance of 22%. Both lead to future revenue growth. For comparison, they just achieved 36% annual revenue growth with daily queries growth of 73% and 158% NRR as the cycle was trending down. Now the cycle is about to trend up. I'd be surprised if revenue growth is lower than 27% this year.
+
+The new CEO Sridhar Ramasway is better than Slootman in every way. Slootman was a has-been-MBA-suit cashing in on his cachet like John Chen at BlackBerry. Took extreme stock based comp for himself and kept selling shares nonstop, while not keeping up with industry competition. Tech expertise is essential for tech CEOs to lead their companies to a monopolistic outcome. Research on the economics of tires (Slootman), not so much.
+
+The company is about to become relevant in the AI space due to this change in leadership. And web services companies are probably the biggest long term beneficiaries of AI. They have better economics (network, scale, incremental capital requirements). The new CEO expects several new product launches this year and he delivered one [yesterday](https://www.snowflake.com/blog/unlock-insights-with-snowflake-data-clean-rooms/). That's impressive after a little over one month on the job.
+
+By now everyone knows the CEO bought $5m worth of shares as part of his compensation contract this week. However, what's actually more interesting is Mark D. McLaughlin bought $501k worth of stock above $165 this month without being required to do so as part of any agreement. He similarly added $300k early last year at a higher price. He's a director of Snowflake and Palo Alto Networks, and Chairman of Qualcomm. Definitely the kind of guy who has his finger on the pulse of the tech scene. So if he's buying more this year than last year at the same price, he is more confident in the company's future now.
+
+For all the programmers who argue that Snowflake is overpriced vs Redshift, Synapse, etc. and how it is far behind Databricks, please read:
+
+1. [This technical merit comparison on Snowflake vs Databricks](https://twitter.com/convequity/status/1773722517330653337?s=19/).
+2. [This comment about Snowflake vs Synapse](https://www.reddit.com/r/dataengineering/comments/11ybe2d/comment/jd78ksl/?utm_source=share&utm_medium=web2x&context=3/)
+3. [This comment from a couple years ago about how pros misused Snowflake and ended up spending too much](https://www.reddit.com/r/SQLServer/comments/ww2zbc/comment/ilk2aq7/?utm_source=share&utm_medium=web2x&context=3/). My guess is that part of the decline in Net Revenue Retention and Revenue growth rates are partially due to this factor - people optimizing their use of the product for its true intent.
+4. Redshift is a dumpster fire according to many sources. [Like this.](https://www.reddit.com/r/dataengineering/comments/12mw1yy/redshift_vs_snowflake//)
+
+These factors mean Snowflake growth will start to reaccelerate this year. The non-AI tech cycle is about to reaccelerate naturally. Snowflake is about to become more product innovation oriented. That  product innovation will turn its sails to catch the AI wind. They were misunderstood by customers. So they experienced less rapid growth as a result of those customers figuring out how to use the service more effectively. The changes the company made to better compete with Databricks are effective whereas Databricks' attempt to copy Snowflake are nascent in comparison. As more people begin to understand this setup, Snowflake will go back over $400 by next year. Therefore, Snowflake selloff seems like it is a temporary accident.
+
+Position: 142 x $165c 4/19 exp (check profile for proof post).
+
+Edit: I also found this update on the AI work at $snow from one of its top engineers:
+https://twitter.com/rajhans_samdani/status/1770903641630863646?s=19
+
+Impressive that they beat gpt-4 by a good margin when combined with Mistral. And they surpassed everyone but gpt-4 as a standalone.",2024-03-31 02:36:48,2024-03-31 02:36:48+00:00
+Buy high sell low,1,1bs1884,https://i.redd.it/vx8xxwx5flrc1.jpeg,1,1711857473.0,Are there any analyst suggestions that actually turn out well,2024-03-31 03:57:53,2024-03-31 03:57:53+00:00
+UAW Strikes Backfire on Ford Employees,0,1bs1ytq,https://i.redd.it/rb234xpemlrc1.jpeg,8,1711859910.0,Sure we will raise your wages! But we will also fire half of you 😂😂,2024-03-31 04:38:30,2024-03-31 04:38:30+00:00
+AT&T gonna drop,508,1bs2prx,https://www.npr.org/2024/03/30/1241863710/att-data-breach-dark-web,185,1711862576.0,Getting puts first thing on Monday. Expect the AT&T to moon,2024-03-31 05:22:56,2024-03-31 05:22:56+00:00
+Right around Easter is crazy,472,1bs410p,https://i.redd.it/giat9k049mrc1.jpeg,78,1711867545.0,,2024-03-31 06:45:45,2024-03-31 06:45:45+00:00
+Right around Easter is crazy,2,1bs410p,https://i.redd.it/giat9k049mrc1.jpeg,2,1711867545.0,,2024-03-31 06:45:45,2024-03-31 06:45:45+00:00
+"I'm late to the party, but maybe there's an after-party? ",0,1bs4dis,https://www.reddit.com/r/wallstreetbets/comments/1bs4dis/im_late_to_the_party_but_maybe_theres_an/,9,1711868833.0,"So it just clicked for me, and I'm so late to the party.
+
+To start, I'm not a big believer in crypto. There are people like me and people not like me. All good baby. I have a friend who invested everything he has in crypto and also into a weed farm in New Jersey. He believes that it's the future. He has crazy eyes and I don't mess with him. Lovely guy.
+
+And there is artificial intelligence too. I work at a company that leverages AI to do background checks. I do research to validate and supplement the AI system's findings. The AI is good at what it does. It wasn't always that way; for years the AI was as dumb as me. Truly regarded. Now it's better at what it does, but it still can't make me coffee. Because it does background checks, noy espresso. 
+
+I run on coffee, America runs on Dunkin, and crypto and AI run on... electricity ⚡
+
+I'm no Thomas Edison but a lightbulb went off. And I knew that once again in my life I was a mother-effin late bloomer. 
+
+I've been reading in the news about how energy intensive crypto and AI is (for years). But not only that, clean energy is what companies want, partly so that they can endear themselves to that ESG f@g Larry Fink but also to be kind to mother earth. There's that story about Amazon hooking up next to a nuclear power plant for their data center, El Salvador's Bitcoin mining using geothermal energy, and other stuff like that.
+
+My question to you is, what companies are you looking at that are a clean energy pure play for high-energy-demanding activities such as crypto mining and AI? What companies are you looking at that may not pure play but sort of clean-energy-adjacent? I've come across CleanSpark and Marathon Digital Holdings, but looking to hear opinions.
+
+Is this even a good investment now? Do I need to wait for a market downturn? Or a long term hold works too (is WSB aware this exists)?",2024-03-31 07:07:13,2024-03-31 07:07:13+00:00
+What kinds of obscure unexpected bodies of data/trend indicators have you found to predict the health of an economy/the markets?,136,1bs4yu3,https://www.reddit.com/r/wallstreetbets/comments/1bs4yu3/what_kinds_of_obscure_unexpected_bodies_of/,204,1711871334.0,"Like ""strippers can tell when the economy is good"", ""make-up sales go up in a recession"", what odd ones have you heard of?  Or also, what triggers black swans?",2024-03-31 07:48:54,2024-03-31 07:48:54+00:00
+Market Makers when I open a new position to swing in April after turning a profit the month prior. ,1709,1bs6006,https://v.redd.it/dwmablw9xmrc1,57,1711875671.0,,2024-03-31 09:01:11,2024-03-31 09:01:11+00:00
+Market Makers when I open a new position to swing in April after turning a profit the month prior. ,44,1bs6006,https://v.redd.it/dwmablw9xmrc1,5,1711875671.0,,2024-03-31 09:01:11,2024-03-31 09:01:11+00:00
+Waiting stonks to open like,21,1bs6bdy,https://i.redd.it/fhj25obe1nrc1.jpeg,3,1711877058.0,,2024-03-31 09:24:18,2024-03-31 09:24:18+00:00
+Buy the dip(OP-Ryuk712),6328,1bs6gg2,https://i.redd.it/b1j4n8783nrc1.jpeg,221,1711877674.0,,2024-03-31 09:34:34,2024-03-31 09:34:34+00:00
+Buy the dip(OP-Ryuk712),14,1bs6gg2,https://i.redd.it/b1j4n8783nrc1.jpeg,1,1711877674.0,,2024-03-31 09:34:34,2024-03-31 09:34:34+00:00
+Nvidia times 2 ETF,5,1bs8ejf,https://www.reddit.com/r/wallstreetbets/comments/1bs8ejf/nvidia_times_2_etf/,3,1711885196.0,"NVDA didn't have a great week, last week. Hopefully that will change and I was unfortunate to buy into the   Granite Shres 2x Long Daily ETF (NVDL)  at the beginning of last week.    So my losses were twice as bad...but what added salt to the wound was NVDA ended up green  at the end of trading and this ETF ended in the red instead of twice the green.   In after hours trading NVDA went red again and this stock of course doubled that red..and a little more.    So I am feeling a bit dooped.  Will take the first opportunity to close that position and warn all to avoid it.",2024-03-31 11:39:56,2024-03-31 11:39:56+00:00
+DD - Short USD vs JPY,68,1bs8i7w,https://www.reddit.com/r/wallstreetbets/comments/1bs8i7w/dd_short_usd_vs_jpy/,63,1711885534.0,"I'm aware that JGBs are known as the widow maker, but going long the Yen against the US dollar seems like a no brainer to me...
+
+ Thought I would share my DD in case any of you regards would like to join me, or else try to persuade me why I am wrong!
+
+In March 2022 the Fed started raising rates and the US vs Japan interest rate differential started to blow out. The long USD vs short Yen carry trade was reborn. Why settle for just selling volatility and riding the crypto/tech wave upwards when you can get even more return by borrowing at low interest rates in Japan. After all, that's never ended badly for anyone. 
+
+https://preview.redd.it/ghjnx81xknrc1.png?width=1192&format=png&auto=webp&s=3d2577df97ae4910114fb2f13b246d1b9b30b0fb
+
+In late 2023 it started to look like this party might be coming to an end, the market was frothing over 6-7 US rate cuts, and the BoJ was making murmurs about ending it's zero interest rate policy. 
+
+At the start of 2024 the headlines were expecting a possible BoJ rate hike in April 2024 ([https://www.japantimes.co.jp/business/2024/01/11/economy/boj-ex-official-on-ending-negtive-rate/](https://www.japantimes.co.jp/business/2024/01/11/economy/boj-ex-official-on-ending-negtive-rate/)). I don't remember reading a single article that was expecting a rapid pace of hikes, as per this quote from that link, ""The BOJ will only go slowly. It’s completely different from the Federal Reserve and European Central Bank, Sakurai said. What Japan’s economy needs is the continuation of an appropriate level of monetary easing.""
+
+We duly got a tiny BoJ rate hike in March and the FED has remained dovish, indicating that it still wants to cut rates in the face of high employment and slightly elevated inflation. Interest rate differentials fell. Of course the yen rallied right? Right? 
+
+No, the widow maker did what it does best and the Yen returned to freefall. How does the MSM explain this? ""The slide comes amid speculation the yen will remain under pressure to weaken due to Japan’s large yield discount to other developed economies, notably the US. BOJ Governor Kazuo Ueda and his officials’ insisted that financial conditions will stay loose even though the nation hiked its interest rates for the first time since 2007 and scrapped the yield-curve control regime this week. [https://uk.finance.yahoo.com/news/yen-falls-lowest-since-2008-010208156.html](https://uk.finance.yahoo.com/news/yen-falls-lowest-since-2008-010208156.html)"". WTF? **Nobody** was ever expecting massive/rapid tightening in the first place.
+
+Everyone loves a good carry trade though, fundamentals be damned. So the hedgies, trend followers, retail etc. have continued to short the shit out of JPY. You can see this for yourself... [https://uk.investing.com/economic-calendar/cftc-jpy-speculative-positions-1614](https://uk.investing.com/economic-calendar/cftc-jpy-speculative-positions-1614)
+
+https://preview.redd.it/l76vva4xonrc1.png?width=665&format=png&auto=webp&s=443d6a559de90f0ba43c1328f853a3eaac366872
+
+I for one am ignoring the BS coming out of the press, and think there is a decent chance that this carry trade gets unwound if/when the FED does start to cut rates. 
+
+Think I am crazy?
+
+Here's an article in the HedgeFundJournal from May 2007 explaining why the Yen carry trade will probably continue to work, [https://thehedgefundjournal.com/the-carry-trade/](https://thehedgefundjournal.com/the-carry-trade/). ""The situation is very different now. The excesses of the bubble 1980s have worked through the Japanese economic system. Hedge funds employ less leverage and big currency bets are much rarer. Many investors other than hedge funds are making use of cheap yen. Most transactions do not have to be unwound or can be hedged. Prime brokers and banks have become a little more disciplined about how much and to whom they provide leverage. The increased sophistication and institutionalisation of the hedge fund industry has brought focus to risk-adjusted returns not just top line performance. The carry trade is just one source of alpha among many. And why would Japan stop lending yen now? Japan has lots of money and the economy is much more stable than ten years ago. The carry trade is not without risk but then nothing is."".
+
+Well, we have the luxury of knowing what happened next... the FED cut rates in late 2007 (shown below) and the dollar subsequently puked. 
+
+https://preview.redd.it/7oyjxdmnpnrc1.png?width=1186&format=png&auto=webp&s=1bb697265fa86b1cad34f41d9691848def16abb5
+
+History doesn't repeat, but it rhymes. Occam's razor. The increase in US vs Japan interest rates seemingly caused the recent selloff in the Yen, why wouldn't a decrease cause the opposite. 
+
+This all relies on the FED cutting rates, which might not happen, but I've started buying some JPY. Fancy joining me, and taking the other side of these momentum junkie, carry loving, short volatility investors before the fun starts?
+
+&#x200B;",2024-03-31 11:45:34,2024-03-31 11:45:34+00:00
+Puts on Blackrock,4015,1bs99ox,https://i.redd.it/e2f7do55ynrc1.jpeg,321,1711888069.0,,2024-03-31 12:27:49,2024-03-31 12:27:49+00:00
+Puts on Blackrock,29,1bs99ox,https://i.redd.it/e2f7do55ynrc1.jpeg,7,1711888069.0,,2024-03-31 12:27:49,2024-03-31 12:27:49+00:00
+SOUN - I asked this in the soundhound group but want to hear others feedback,0,1bs9hf2,https://www.reddit.com/r/wallstreetbets/comments/1bs9hf2/soun_i_asked_this_in_the_soundhound_group_but/,3,1711888776.0,"I see mixed feelings by investors but I want to hear from your perspective. I am optimistic with this company. 
+
+1. They're young and showing growth and will soon be profitable. (As in the rebranding and focus pivot in 2017)
+
+2. Executive teams sell of RSUs are only a fraction of their shares and align with the sell-to-cover for their tax obligations. Which is normal practice when receiving RSUs as part of your total comp package. 
+
+3. Large investment firms are continuing to buy up shares. 
+
+4. High short interest could be good or bad. If it starts a squeeze then the short holds will have to buy to cover and further excellerating the price. 
+
+5. Large backlog of orders to fill. 
+
+6. Applications on auto and fast food are seeing extremely positive results signaling a rapidly growing opportunity with their tech in AI. 
+
+What are your thoughts and why?",2024-03-31 12:39:36,2024-03-31 12:39:36+00:00
+What happened to the option to actually bet on how stocks perform?,1,1bs9l8c,https://www.reddit.com/r/wallstreetbets/comments/1bs9l8c/what_happened_to_the_option_to_actually_bet_on/,2,1711889116.0,"I swear there was tokens we could bet on which stock would perform the best, stocks going up/down, this stock will change by +-x%. What happened to that?",2024-03-31 12:45:16,2024-03-31 12:45:16+00:00
+YOLO,3,1bs9r3q,https://i.redd.it/mej37tju2orc1.jpeg,1,1711889651.0,Happy Easter,2024-03-31 12:54:11,2024-03-31 12:54:11+00:00
+50k loss| Comeback with AI🤖,469,1bsc57a,https://i.redd.it/ppjre2tanorc1.jpeg,77,1711896551.0,"If you followed me on my last post I took a 50k loss on SPY puts following a technical false break down with EMAS. I since then spent countless hours on building my own strategy using AI predictive tools. Built a badass system and Made it all back and then some. I’m a big trader in terms of equity based bets and I’m usually right. However this bull run and market fundamentals destroyed 50,000 dollars in 2 weeks. You have got to be careful. Learned my lesson hard and well following bs analysts and market fundamentals. Strictly price action using my strategy from here on out. Let’s run it to a mil regards🥹",2024-03-31 14:49:11,2024-03-31 14:49:11+00:00
+Y’all wild ,1,1bsc671,https://www.reddit.com/r/wallstreetbets/comments/1bsc671/yall_wild/,1,1711896626.0,I follow this one and a poker page and by far you guys are definitely the bigger degens lmaoo,2024-03-31 14:50:26,2024-03-31 14:50:26+00:00
+Up or down or sideways - CME rate probabilities after Powell speech,41,1bsdqvm,https://www.reddit.com/r/wallstreetbets/comments/1bsdqvm/up_or_down_or_sideways_cme_rate_probabilities/,23,1711900728.0,"CME publishes a nice tracker for target rate probabilities. The June, July, Sept. and Dec. decisions seem to get dovish reaction from the market, that's bullish. Mai and Nov. decisions rather bearish. Check it out here: https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html?redirect=/trading/interest-rates/countdown-to-fomc.html&mod=article\_inline.
+
+https://preview.redd.it/qsldie1vzorc1.jpg?width=2602&format=pjpg&auto=webp&s=57d1f616a6303a971c1b4ec0dc4af73e439ed545
+
+What do you guys think how we open tonight?
+
+I had a hard time to close my long ES and NQ on Thursday, but I kept it over the weekend in YOLO spirit.",2024-03-31 15:58:48,2024-03-31 15:58:48+00:00
+Up or down or sideways - CME rate probabilities after Powell speech,1,1bsdqvm,https://www.reddit.com/r/wallstreetbets/comments/1bsdqvm/up_or_down_or_sideways_cme_rate_probabilities/,1,1711900728.0,"CME publishes a nice tracker for target rate probabilities. The June, July, Sept. and Dec. decisions seem to get dovish reaction from the market, that's bullish. Mai and Nov. decisions rather bearish. Check it out here: https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html?redirect=/trading/interest-rates/countdown-to-fomc.html&mod=article\_inline.
+
+https://preview.redd.it/qsldie1vzorc1.jpg?width=2602&format=pjpg&auto=webp&s=57d1f616a6303a971c1b4ec0dc4af73e439ed545
+
+What do you guys think how we open tonight?
+
+I had a hard time to close my long ES and NQ on Thursday, but I kept it over the weekend in YOLO spirit.
+
+https://preview.redd.it/qsldie1vzorc1.jpg?width=2602&format=pjpg&auto=webp&s=57d1f616a6303a971c1b4ec0dc4af73e439ed545",2024-03-31 15:58:48,2024-03-31 15:58:48+00:00
+MSOS Positions - 61% is held in Cash?,154,1bsf5ff,https://www.reddit.com/r/wallstreetbets/comments/1bsf5ff/msos_positions_61_is_held_in_cash/,54,1711904325.0,"Anyone have insight on why MSOS has 61% cash? Seems odd to have so much not invested in their targeted industry. 
+
+https://preview.redd.it/9tbtdbmdaprc1.jpg?width=1408&format=pjpg&auto=webp&s=bf48e0eb149425a064c45948f1c0cd538d8c043e",2024-03-31 16:58:45,2024-03-31 16:58:45+00:00
+"Bitcoin is going to absolutely explode with this, not sure how to feel??",18,1bsgf6b,https://www.reddit.com/r/wallstreetbets/comments/1bsgf6b/bitcoin_is_going_to_absolutely_explode_with_this/,3,1711907688.0,"&#x200B;
+
+https://preview.redd.it/bwrxh1bdkprc1.png?width=1124&format=png&auto=webp&s=66393acb868dedfabe8a714acf57ca40c6a583bd",2024-03-31 17:54:48,2024-03-31 17:54:48+00:00
+META's AI knows and didn't want to tell,2885,1bsiglk,https://i.redd.it/prwjhwn60qrc1.jpeg,183,1711912970.0,,2024-03-31 19:22:50,2024-03-31 19:22:50+00:00
+META's AI knows and didn't want to tell,56,1bsiglk,https://i.redd.it/prwjhwn60qrc1.jpeg,12,1711912970.0,,2024-03-31 19:22:50,2024-03-31 19:22:50+00:00
+"What Are Your Moves Tomorrow, April 1, 2024",918,1bsjc7i,https://www.reddit.com/r/wallstreetbets/comments/1bsjc7i/what_are_your_moves_tomorrow_april_1_2024/,5624,1711915203.0,[View Post](https://www.reddit.com/r/wallstreetbets/post-viewer/1bsjc7i),2024-03-31 20:00:03,2024-03-31 20:00:03+00:00
+Puts on ford/GM/stellantis ,11,1bsk69l,https://www.reddit.com/r/wallstreetbets/comments/1bsk69l/puts_on_fordgmstellantis/,66,1711917271.0,"I don't know if anyone has been following but all current car dealerships are filled to the brim with new cars/trucks that aren't selling whatsoever. I am following some YouTube channels, which are focusing on this topic and they are seeing the same issue . No one is buying Ford trucks for 70-100k . The same goes for all other car manufacturers. Is it time again for the automotive sector to eat shit or am I seeing this wrong ? What do you think? 
+
+Puts on ford&GM ",2024-03-31 20:34:31,2024-03-31 20:34:31+00:00
+am i a terrible human being?,44,1bskcrj,https://i.redd.it/z51zbioaeqrc1.png,8,1711917727.0,,2024-03-31 20:42:07,2024-03-31 20:42:07+00:00
+100% return in 4 hours,400,1bskiru,https://i.redd.it/ykquhoxlfqrc1.jpeg,58,1711918157.0,"For some reason some guy’s DD on this was removed by moderators, but it sure worked for me!",2024-03-31 20:49:17,2024-03-31 20:49:17+00:00
+It'll recover one day... it has to,1,1bskqra,https://i.redd.it/4h6zpu1ahqrc1.jpeg,1,1711918719.0,,2024-03-31 20:58:39,2024-03-31 20:58:39+00:00
+White House authorizes weapons transfers to Israel,1508,1bsl47d,https://www.cbsnews.com/video/white-house-authorizes-weapons-transfers-to-israel/,592,1711919645.0,LMT opening at 490+ and 550+ after earnings ,2024-03-31 21:14:05,2024-03-31 21:14:05+00:00
+$GES- Covering By Special Dividend 4/16,290,1bslbdu,https://www.reddit.com/r/wallstreetbets/comments/1bslbdu/ges_covering_by_special_dividend_416/,170,1711920142.0,"*The last time a company with 20%+ short interest was able to pull off a special dividend greater than a $1 was* ***($Rkt) rocket mortgage in 2021*** *which resulted in a massive short squeeze.* 
+
+So **$GES** CEO  Carlos Alberini  fuckin hates shorts almost as much as we do, and im going to outline what this absolute **CHAD** has planned for them.   
+
+His company Guess jeans literally smashes every ER by a country mile   and hes tired of his stock being held down by these lazy greedy  cocaine  snorting short sellers.   
+
+&#x200B;
+
+[ Kerrisdale Capital Snorts MicroStrategy Stock](https://preview.redd.it/ut4k8inwkqrc1.jpg?width=1075&format=pjpg&auto=webp&s=1360c86a466be60eef48bd00f4747757c98ff49a)
+
+Let me outline how this mega-autist CEO is going to force the **shorts to squeeze themselves by 4/16/2024** 
+
+GUESS was  established in 1981 by the Marciano brothers, who left   the south of  France in pursuit of the American dream. Inspired by a   European  influence, the Marcianos redefined denim.   
+
+&#x200B;
+
+* There is currently 27m share float     
+ 
+* 27% of those shares are short : 7,596,908 shares     
+ 
+* $1 billion dollar buyback program     
+ 
+
+**NOW THE FUN PART** 
+
+In their most recent investor meeting team $GES rolled up to the    shorts door like the dancing pallbearers and introduced a $2.40/share ***SPECIAL DIVIDEND*** on top of annual dividend  to be paid to anyone holding GES stock by 4/16/2024.   
+
+So.. what does this mean for shorts? We have arrived at the BD moment..   
+
+**SHORTS HAVE TO PAY THE DIVIDEND** 
+
+Shorts have to pay $2.40 for every share they are short on 4/16/2024   
+
+BUYBACK PROGRAM   
+
+What else was in that juicy investor conference? Wait for it…   
+
+**$1 BILLION DOLLAR BUYBACK PROGRAM** 
+
+See, GES makes so much fucking money they can afford not only a  ***special dividend***, but a $1B share buyback. Im telling you this man is going  into the trenches and clearing the shorts out by his fucking self.   
+
+**TLDR:** 
+
+$GES is a boomer stock they thought was gonna go out of business   when interest rates were raised and the opposite happened. GES has   outperformed in earnings for the past year and is up 76% YTD. **Shorts have to cover** their \~7.6mm  shares or they are **forced to pay $2.40/share they are short on 4/16/2024**.   
+
+Also, if you can’t do math. If u buy shares and hold thru 4/16..  it’s  an instant 12% return via the special dividend at least.   
+
+Edit: I always liked how a big ass looked in those jeans
+
+Positions: 34c 4/19   ",2024-03-31 21:22:22,2024-03-31 21:22:22+00:00
+ Turkey's Voters pressed by economic woes punish Turkish president w/inflation at 67% and Turkey Lira near All-Time low.,991,1bslbmv,https://i.redd.it/5luxp26klqrc1.png,229,1711920159.0,,2024-03-31 21:22:39,2024-03-31 21:22:39+00:00
+ Turkey's Voters pressed by economic woes punish Turkish president w/inflation at 67% and Turkey Lira near All-Time low.,12,1bslbmv,https://i.redd.it/5luxp26klqrc1.png,8,1711920159.0,,2024-03-31 21:22:39,2024-03-31 21:22:39+00:00
+TKO - Owning  UFC and WWE could net you a FCF yield of 7-9%,15,1bslcft,https://www.reddit.com/r/wallstreetbets/comments/1bslcft/tko_owning_ufc_and_wwe_could_net_you_a_fcf_yield/,41,1711920210.0,"First DD I’m posting here.  Hope you benefit from it.  As a warning it will be mostly point form.  We’re all busy you don’t have time to read filler words and I don’t care to write them.  Also posting on Easter Weekend so you can say you’re “working” and read this instead of spending time with relatives.  Here goes. 
+
+TKO group describes themselves as a premium sports and entertainment company that comprises the UFC and WWE.   
+
+On September 12, 2023 Endeavour group (the then owner of UFC) and WWE closed a transaction to combine the two entities to form a new, publicly listed company (TKO group holdings).  Endeavour Group Holding (also publicly traded btw) remains majority shareholder with 51% of outstanding shares. 
+
+Unfortunately, there is not much data that I could find on the combined group.  Financials that I found cover only January 1, 2023 – December 31, 2023 for UFC and September 12, 2023 – December 31, 2023 for the combined WWE and UFC.  Parent financials for are available for through Endeavour Group Holdings dating back only to 2021.  WWE financial reports are available back to 2000 as it was a separate publicly traded company.
+
+History:
+Both the UFC and WWE are household names and represent the most well recognized franchises in combat sports and wrestling entertainment respectively.  Additionally, both companies have long operating histories.  For reference the UFC just celebrated its 30th anniversary having hosted its first fight in 1993 and will be celebrating the UFC 300 event this coming April.  The WWE dates back even further, tracing its origins back to the 1950s being founded by either the father or grandfather of the well-known (and now somewhat infamous) figurehead Vince McMahon according to Wikipedia. 
+
+About the business:
+Under the new combined company the UFC and WWE will operate us separate entities.  The UFC will led by Dana White, who has served as president of the UFC since 2001 and grown it to a multibillion dollar business.  The WWE being led by Nick Kahn who joined the  WWE in 2020 and took over the role of President in 2021.
+
+Per their 10K for fiscal year ended December 31, 2023 TKO group generates revenue from principal activities:
+
+1. Media rights and content.
+2. Live events.
+3. Sponsorship.
+4. Consumer products licensing.
+
+1. Media and content:
+TKO generates revenue from licensing live events and original programming to broadcasters domestically and internationally that carry TKO programming on digital and linear channels as well as pay-per-view.
+
+These contracts last 3–5 years with broadcasters but they have some significant agreements lasting 7–10 years.
+
+Broadcasters that have contracts with WWE or UFC include: ESPN, ABC, Comcast, Fox, Peacock, Tencent, Sony, Warner Brothers and now Netflix. 
+
+Programming includes long and short for content, reality, series, and other filmed entertainment. Furthermore, TKO not only sells to distributors but also sells direct to consumers through UFC fight pass and WWE network.
+
+2. Live events:
+Live events generate revenue generation through ticket sales, site, fees, travel packages, and VIP experiences.
+
+Between WWE and UFC generate 350 annual live events per year
+
+3. Sponsorships:
+TKO generates ad revenue and sponsorship revenue from sale of in-venue and in broadcasting advertising assets and digital impressions.
+
+Ad revenues are driven by original content on third party social media platforms. For example, WWE has 100 million subscribers on YouTube and is the 12th most followed channel.
+
+TKO group also has partnerships with major brands, including Anheuser-Busch, Draft Kings, GM, P&G, Monster Energy, Wendy’s, Toyo tires and others.
+
+4. Consumer product licensing:
+TKO group merchandises a broad, portfolio of products, including video games, trading cards, apparel, memorabilia, equipment, toys, and digital goods. This is done mostly through royalties and licensing fees, through sales of branded products and event sales as well as via e-commerce platforms. The largest sales items here are video games and toys. There are agreements with EA sports for UFC and Take Two for WWE for video game franchises.  Additionally, there are agreements with Mattel to produce toys.
+
+Why invest?: 
+1. Synergies- I believe there are synergies to be had between UFC and WWE in terms of securing media rights and sponsorships.  Further, Endeavour Group Holdings  as a majority shareholder with their talent management and online sports betting businesses is likely to be a motivated co-owner in furthering promotion of these two business brands. 
+
+2. There are significant tailwinds to content provision.  Sponsors are projected to increase their spending  on live sports and entertainment advertising at a 9% CAGR over the next two years.  Streaming providers (Netflix, Amazon, Apple) are also expected to increase their spend by CAGR’s reaching the mid 20% range.  With the competition between streaming services heating up there is likely to be competition for sought after quality content such as the programming provided by WWE and UFC.
+
+3. Mixed martial arts (MMA)  is growing rapidly in popularity with the UFC easily being the most recognized franchise in MMA. For example, it is reported that sports betting on UFC is the largest growing segment in the sports betting industry.  With rising popularity of their broadcasts they may be able to increase the pricing of ad placement. 
+
+Risks:
+1. WWE CEO Vince McMahon’s recent departure leads to less certainty with leadership, however, given the recent scandals surrounding him this may be more positive than negative for the WWE side of the business but the impact of this remains to be seen.
+
+2. While WWE’s revenue has grown substantially over the past decade, growth has slowed and I don’t envision as much growth in this aspect of the combined business. 
+
+3. It is possible that UFC’s growth could be hampered by increased competition from other combat sports / franchises including boxing, K1 kickboxing, Combat karate, and One Champ.  For the foreseeable future, however, UFC is clearly the dominant player in MMA.  
+
+Valuation:
+Valuation is somewhat difficult given the paucity of available information, however, management has provided 2024 FY guidance in their most recent report and are targeting a free cash flow conversion of greater than 50% with EBITDA in range of $1.15–1.17 billion.  From: https://investor.tkogrp.com/files/doc_financials/2023/q4/TKO_4Q23-Earnings-Release_2-27-24_FINAL.pdf
+
+Now IF management performs as they predict for their 2024 full year guidance this would give an estimated free cash flow of $558 million at 50% FCF conversion of $1.15 billion EBITDA on the lower end of estimates to $644 million at a FCF conversion of 55% on $1.17 billion EBITDA on the upper end.
+
+Given a market cap of $7.064 billion (as of March 28, 2024) this translates into a FCF yield of 7.90% at the low end of estimates and 9.12% at the upper end of estimates.  
+
+Also, Goldman Sachs recently initiated coverage at a buy with a price target of $102. 
+
+All in all not a bad return IMO for owning two of the most dominant names in their respective domains.
+
+Disclosure: Long TKO
+
+Sources: 
+1. TKO Group Holdings 10-K Dec 31, 2023: https://d18rn0p25nwr6d.cloudfront.net/CIK-0001973266/142af594-111f-470a-a3db-9641dffd4445.pdf#page57
+2. TKO Group press release: https://investor.tkogrp.com/files/doc_financials/2023/q4/TKO_4Q23-Earnings-Release_2-27-24_FINAL.pdf
+3. WWE investor relations: https://corporate.wwe.com/investors/investor-overview
+4. Seeking Alpha: TKO gains as Goldman starts at Buy, seeing discounted valuation.",2024-03-31 21:23:30,2024-03-31 21:23:30+00:00
+nCino NCNO rising after great earnings. Cheap options,36,1bslnhx,https://www.reddit.com/r/wallstreetbets/comments/1bslnhx/ncino_ncno_rising_after_great_earnings_cheap/,16,1711920987.0,"nCino (NCNO) sells a cloud based banking platform that helps financial institutions gain efficiencies from digitizing and streamlining processes in commercial banking, small business banking, and retail banking. The software is used by over 1,750 banks and credit unions including TD bank, Truist, Santander bank, and Barclays. 
+
+nCino reported earnings last week. The expected EPS was .12 cents per share. It almost doubled the expected EPS with .21 cents per share. EPS has risen for the past 5 quarters from .03 per share 5 quarters ago to the recent .21 cents per share. After reporting earnings the stock went up about 20%. Future guidance is .55 cents per share. It has consistently risen all last week and I think it will continue to rise because the recent earnings deserve a 50%+ rise in share price. Before the blowout earnings it traded around $30 a share. As of Friday it is $37 a share. I think it can get to around $50 a share by May. 
+
+This company is profitable and growing rapidly. It is a candidate to be bought out by other cloud companies or a big banking player.  
+
+Options are relatively cheap. I have some May, August, and September calls. I also have about 1000 shares. I think this stock is flying under the radar and some attention and volume can send this stock soaring. If we can get increased volume and keep the momentum after excellent earnings short term options can be quick profits. 
+
+In conclusion 🚀 🚀 🚀 !",2024-03-31 21:36:27,2024-03-31 21:36:27+00:00
+"Stock tickets AZZ, PHAT, PP, BI, CUK. What is going on ",1,1bsml78,https://i.redd.it/crsfubqwuqrc1.jpeg,5,1711923303.0,,2024-03-31 22:15:03,2024-03-31 22:15:03+00:00
+"Uranium Energy: Buy, Sell, or Hold? | The Motley Fool",0,1bsmzsb,https://www.fool.com/investing/2024/03/30/uranium-energy-buy-sell-or-hold/,23,1711924277.0,,2024-03-31 22:31:17,2024-03-31 22:31:17+00:00
+"Uranium Energy: Buy, Sell, or Hold? | The Motley Fool",0,1bsmzsb,https://www.fool.com/investing/2024/03/30/uranium-energy-buy-sell-or-hold/,4,1711924277.0,,2024-03-31 22:31:17,2024-03-31 22:31:17+00:00
+Ten years of deduction rollovers,2558,1bsntzx,https://i.redd.it/91qx7oi04rrc1.jpeg,78,1711926365.0,,2024-03-31 23:06:05,2024-03-31 23:06:05+00:00
+Ten years of deduction rollovers,89,1bsntzx,https://i.redd.it/91qx7oi04rrc1.jpeg,6,1711926365.0,,2024-03-31 23:06:05,2024-03-31 23:06:05+00:00
+Trinity Capital - Big VC Opportunity or Too Big to Fast $TRIN,7,1bso20r,https://www.reddit.com/r/wallstreetbets/comments/1bso20r/trinity_capital_big_vc_opportunity_or_too_big_to/,5,1711926938.0,"I've been looking at Trinity Capital ($TRIN). It's had its ups and downs in the past few months in the stock. They seem to using a KeyBank for their funding via a wholly owned subsidiary LLC to fund secured and non-secured loans to a number of mid-size startups for 10+%. Not sure what is really securing these loans. I'm not seeing how they're making back their cost of capital unless their warrants turn into something or sell these loans off to someone. Seems like a lot could go wrong with these small/midsized loans. Their payout ratio is 100%+. Yet off they go. Someone is buying up calls. And now they want to refi their bank loan? And yet Moodies has a strong buy? Is there something I'm missing?
+
+https://www.investing.com/news/stock-market-news/trinity-capital-prices-100m-notes-due-2029-93CH-3352413#",2024-03-31 23:15:38,2024-03-31 23:15:38+00:00
+GOOG ⬆️ ,18,1bsoaui,https://www.reddit.com/r/wallstreetbets/comments/1bsoaui/goog/,12,1711927557.0,"Everyone’s favorite PichAI has done it again 
+
+According to Reddit , Gemini 1.5 with the 1M context window is now widely available on their website: https://www.reddit.com/r/singularity/s/PRrROE6YpV
+
+There’s been no press release.  However the “cloud next” conference is next week where AI is the primary topic. Even with this subs collective 3 brain cells one can easily tell this will be a huge piece of it 
+
+Sure Gemini can only draw Black Hitler or Korean Transfender Ku Klux Klan members 
+
+But it’s pretty clear all these LLMs are converging on “quality” as they’re all on the same datasets and everyone has scale
+
+The differentiator for the real lucrative deals like Apple will be features + speed + cost
+
+With 1M context G somehow has a real moat here with no one close. Sure Claude has unreleased 1M in a paper but goog has unreleased 10M in a paper.     (and their cost and speed is already better than GPT4)
+
+NOTE: AI is a bubble and this has no relevant value at all to the actual business.  But we’re in a world where G is trading at a 30% discount to its FAANG peers, exclusively due to AI perception aka not drawing white ppl. So a big splash here could really moon 
+
+Positons: G 200c May. ",2024-03-31 23:25:57,2024-03-31 23:25:57+00:00
+GOOG ⬆️ ,82,1bsoaui,https://www.reddit.com/r/wallstreetbets/comments/1bsoaui/goog/,53,1711927557.0,"Everyone’s favorite PichAI has done it again 
+
+According to Reddit , Gemini 1.5 with the 1M context window is now widely available on their website: https://www.reddit.com/r/singularity/s/PRrROE6YpV
+
+“cloud next” conference is next week where AI is the primary topic. Even with this subs collective 3 brain cells one can easily tell this will be a huge piece of it https://cloud.google.com/blog/topics/google-cloud-next/register-early-for-google-cloud-next24
+
+Sure Gemini can only draw Black Hitler or Korean Transfender Ku Klux Klan members 
+
+But it’s pretty clear all these LLMs are converging on “quality” as they’re all on the same datasets and everyone has scale
+
+The differentiator for the real lucrative deals like Apple will be features + speed + cost
+
+With 1M context G somehow has a real moat here with no one close. Sure Claude has unreleased 1M in a paper but goog has unreleased 10M in a paper.     (and their cost and speed is already better than GPT4)
+
+NOTE: AI is a bubble and this has no relevant value at all to the actual business.  But we’re in a world where G is trading at a 30% discount to its FAANG peers, exclusively due to AI perception aka not drawing white ppl. So a big splash here could really moon 
+
+Positons: G 200c May. ",2024-03-31 23:25:57,2024-03-31 23:25:57+00:00

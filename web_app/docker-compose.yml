@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  front_end:
+    build: front_end
+    command: [ "npm", "run", "serve", "--", "--port", "3000" ]
+    volumes:
+      - ./front_end:/front_end
+      - node-modules:/front_end/node_modules
+    ports:
+      - "127.0.0.1:3000:3000"
+    depends_on:
+      - back_end
+
+  back_end:
+    build: back_end
+    command: ["python", "manage.py", "runserver", "0.0.0.0:8080"]
+    ports:
+      - "127.0.0.1:8080:8080"
+
+volumes:
+  node-modules:
